@@ -1,6 +1,6 @@
 # wordler
 
-### Histogram of Top 20 Most Frequent English Words
+### Histogram of Top 20 Most Frequent 5-Letter English Words
 
 To view the historgram, run
 
@@ -16,4 +16,4 @@ python3 -m http.server 8080
 http://localhost:8080/data/
 ```
 
-You shoudl see something like this:
+You should see something like this:
