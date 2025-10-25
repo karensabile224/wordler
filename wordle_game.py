@@ -4,35 +4,52 @@ game themselves or run it through a pre-built deep-learning model.
 '''
 
 import time
-import keyboard
+
+def welcome():
+  '''
+  Helper function to welcome user to Wordler and offer an explanation for how
+  Wordle puzzles work. 
+  '''
+  print('- Welcome to Wordler! :D -')
+  input('Press the enter key to continue')
+  print('Enter \'i\' to show game instructions; enter \'s\' to skip')
+  key = input()
+  while key != 'i' and key != 's':
+      print('Invalid input; please enter \'i\' or \'s\'')
+      key = input()
+  if key == 'i':
+      print_instructions()
+  print('Press the \'p\' key on your keyboard to solve a Wordle yourself,'
+  ' or press the \'a\' key to have AI play for you.')
+  key = input()
+  while key != 'u' and key != 'a':
+      print('Invalid input; please enter \'u\' or \'a\'')
+      key = input()
+  print('Have fun!')
+  print()
 
 def print_instructions():
-  print('- Welcome to Wordler! :D -')
-  time.sleep(1)
-  print('Press the \'i\' key to show instructions; press the \'s\'' \
-  ' key to skip')
-  while(True):
-        a = keyboard.read_key()
-
-        if a == 'i':
-           print('You can choose to play the game yourself or run it through' \
-            ' AI. In each turn, guess a five-letter word; guessses are valid if' \
-            ' and only if they appear in a standard, up-to-date English ' \
-            ' dictionary. After a guess is submitted, every letter in the guess' \
-            ' will be labeled with an appropriate color block to indicate if the' \
-            ' letter is in the solution word. Letters that are in the solution' \
-            ' word and in the correct spot will be marked as green, letters that' \
-            ' are in the solution word and not in the correct spot will be' \
-            ' marked as yellow, and letters that are not in the solution word' \
-            ' at all will be marked as green.')
-        elif a == 's':
-            break
-
-  time.sleep(0.3)
-  print('Press the \'p\' key on your keyboard to solve a Wordle yourself, and' \
-  'press the \'a\' key to have AI play for you.')
-  print('Have fun!')
-
+  '''
+  Helper function for printing Wordle rules.
+  '''
+  print()
+  print('WORDLE RULES')
+  print('- You have six attempts to correctly guess a five-letter English word.')
+  input('Press the enter key to continue')
+  input('- For each turn, guess any valid five-letter word; guesses are valid' \
+  ' if and only if they appear in a standard, up-to-date English dictionary.')
+  input('- After a guess is submitted, every letter in the guess will be' \
+  ' labeled with an appropriate color block to indicate if the letter is in' \
+  ' the solution word.')
+  input('- Letters that are in the solution word and in the correct spot will' \
+  ' be marked as green, letters that are in the solution word and not in the' \
+  ' correct spot will be marked as yellow, and letters that are not in the' \
+  ' solution word at all will be marked as gray.')
+  input('- If a guess contains m occurrences of a given letter and the' \
+  ' solution word contains n occurrences of the letter, where m > n, the' \
+  ' letter will be labeled as yellow n times, not m times.')
+  print()
+  
 def run_game():
   solution_word = 'crane'
   i = 0
@@ -59,7 +76,7 @@ def run_game():
     print(f'Failed to solve; the answer was {solution_word}')
 
 def main():
-  # print_instructions()
+  welcome()
   run_game()
 
 if __name__ == '__main__':
