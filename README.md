@@ -17,3 +17,4 @@ http://localhost:8080/data/
 ```
 
 You should see something like this:
+<img width="868" height="431" alt="Screenshot 2025-10-25 at 3 44 36 PM" src="https://github.com/user-attachments/assets/fab46fcd-fab7-4b12-918c-3ffbf63450e6" />
