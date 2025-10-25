@@ -3,8 +3,6 @@ Script to launch wordle game in terminal. User is given the option to play the
 game themselves or run it through a pre-built deep-learning model.
 '''
 
-import time
-
 def welcome():
   '''
   Helper function to welcome user to Wordler and offer an explanation for how
@@ -51,6 +49,9 @@ def print_instructions():
   print()
   
 def run_game():
+  '''
+  Helper function to run Wordle game.
+  '''
   solution_word = 'crane'
   i = 0
   guess = ''
