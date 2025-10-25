@@ -56,7 +56,8 @@ def run_game():
   '''
   Helper function to run Wordle game.
   '''
-  solution_word = 'crane'
+  # TODO: update this to pull from dataset
+  solution_word = 'creed'
   # define map to store counts of letters in solution word
   solution_dict = {}
   for letter in solution_word:
