@@ -1,0 +1,96 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Top 20 Most Frequent 5-Letter English Words</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <svg id="histogram" width="800" height="400"></svg>
+
+    <script>
+      d3.csv("filtered_words.csv").then((data) => {
+        data.forEach((d) => (d.count = +d.count));
+
+        // sort descending by freq
+        data.sort((a, b) => d3.descending(a.count, b.count));
+
+        // keep only the top 20 most frequent 5-letter words or else too visually crowded
+        data = data.slice(0, 20);
+
+        const width = 800;
+        const height = 400;
+        const margin = { top: 30, right: 30, bottom: 60, left: 150 };
+
+        const svg = d3
+          .select("#histogram")
+          .attr("width", width)
+          .attr("height", height);
+
+        const xAxisScale = d3
+          .scaleBand()
+          .domain(data.map((d) => d.word))
+          .range([margin.left, width - margin.right])
+          .padding(0.1);
+
+        const yAxisScale = d3
+          .scaleLinear()
+          .domain([0, d3.max(data, (d) => d.count)])
+          .range([height - margin.bottom, margin.top]);
+
+        // the histogram bars
+        svg
+          .selectAll("rect")
+          .data(data)
+          .enter()
+          .append("rect")
+          .attr("x", (d) => xAxisScale(d.word))
+          .attr("y", (d) => yAxisScale(d.count))
+          .attr("width", xAxisScale.bandwidth())
+          .attr("height", (d) => height - margin.bottom - yAxisScale(d.count))
+          .attr("fill", "steelblue");
+
+        // x-axis labels
+        svg
+          .append("g")
+          .attr("transform", `translate(0,${height - margin.bottom})`)
+          .call(d3.axisBottom(xAxisScale))
+          .selectAll("text")
+          .attr("transform", "rotate(-45)")
+          .style("text-anchor", "end");
+
+        // y-axis labels
+        svg
+          .append("g")
+          .attr("transform", `translate(${margin.left},0)`)
+          .call(d3.axisLeft(yAxisScale));
+
+        // histogram title
+        svg
+          .append("text")
+          .attr("x", width / 2)
+          .attr("y", 20)
+          .attr("text-anchor", "middle")
+          .style("font-size", "18px")
+          .text("Top 20 Most Frequent 5-Letter English Words");
+
+        // x-axis title
+        svg
+          .append("text")
+          .attr("x", width / 2)
+          .attr("y", height - 10)
+          .attr("text-anchor", "middle")
+          .text("5-Letter Words");
+
+        // yaxis title
+        svg
+          .append("text")
+          .attr("x", -height / 2)
+          .attr("y", margin.left - 90)
+          .attr("transform", "rotate(-90)")
+          .attr("text-anchor", "middle")
+          .style("font-size", "14px")
+          .text("Frequency (Count)");
+      });
+    </script>
+  </body>
+</html>
