@@ -1,0 +1,4177 @@
+--- Game 1 ---
+Target: piena
+Starting with 39933 valid words
+Guess 1: sissa
+  Eliminated 39546 words (99.0%)
+  Valid words remaining: 387
+Guess 2: aitna
+  Eliminated 357 words (92.2%)
+  Valid words remaining: 30
+Guess 3: cigna
+  Eliminated 7 words (23.3%)
+  Valid words remaining: 23
+Guess 4: liuna
+  Eliminated 5 words (21.7%)
+  Valid words remaining: 18
+Guess 5: virna
+  Eliminated 6 words (33.3%)
+  Valid words remaining: 12
+Guess 6: bijna
+  Eliminated 2 words (16.7%)
+  Valid words remaining: 10
+Lost in 6 guesses
+
+--- Game 2 ---
+Target: veyed
+Starting with 39933 valid words
+Guess 1: netid
+  Eliminated 39876 words (99.9%)
+  Valid words remaining: 57
+Guess 2: jerod
+  Eliminated 27 words (47.4%)
+  Valid words remaining: 30
+Guess 3: sebsd
+  Eliminated 12 words (40.0%)
+  Valid words remaining: 18
+Guess 4: vexed
+  Eliminated 17 words (94.4%)
+  Valid words remaining: 1
+Guess 5: veyed
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 3 ---
+Target: bicep
+Starting with 39933 valid words
+Guess 1: okuma
+  Eliminated 33007 words (82.7%)
+  Valid words remaining: 6926
+Guess 2: sbjct
+  Eliminated 6899 words (99.6%)
+  Valid words remaining: 27
+Guess 3: beche
+  Eliminated 26 words (96.3%)
+  Valid words remaining: 1
+Guess 4: bicep
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 4 ---
+Target: erkki
+Starting with 39933 valid words
+Guess 1: doyel
+  Eliminated 35295 words (88.4%)
+  Valid words remaining: 4638
+Guess 2: bmake
+  Eliminated 4607 words (99.3%)
+  Valid words remaining: 31
+Guess 3: cheks
+  Eliminated 24 words (77.4%)
+  Valid words remaining: 7
+Guess 4: werkt
+  Eliminated 6 words (85.7%)
+  Valid words remaining: 1
+Guess 5: erkki
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 5 ---
+Target: apple
+Starting with 39933 valid words
+Guess 1: rhoda
+  Eliminated 34543 words (86.5%)
+  Valid words remaining: 5390
+Guess 2: lapis
+  Eliminated 5374 words (99.7%)
+  Valid words remaining: 16
+Guess 3: amply
+  Eliminated 15 words (93.8%)
+  Valid words remaining: 1
+Guess 4: apple
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 6 ---
+Target: lilah
+Starting with 39933 valid words
+Guess 1: laddr
+  Eliminated 39613 words (99.2%)
+  Valid words remaining: 320
+Guess 2: leaky
+  Eliminated 191 words (59.7%)
+  Valid words remaining: 129
+Guess 3: lihat
+  Eliminated 128 words (99.2%)
+  Valid words remaining: 1
+Guess 4: lilah
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 7 ---
+Target: voros
+Starting with 39933 valid words
+Guess 1: jalla
+  Eliminated 24196 words (60.6%)
+  Valid words remaining: 15737
+Guess 2: highy
+  Eliminated 9983 words (63.4%)
+  Valid words remaining: 5754
+Guess 3: tuffs
+  Eliminated 5160 words (89.7%)
+  Valid words remaining: 594
+Guess 4: peeps
+  Eliminated 423 words (71.2%)
+  Valid words remaining: 171
+Guess 5: moons
+  Eliminated 157 words (91.8%)
+  Valid words remaining: 14
+Guess 6: bozos
+  Eliminated 6 words (42.9%)
+  Valid words remaining: 8
+Lost in 6 guesses
+
+--- Game 8 ---
+Target: donau
+Starting with 39933 valid words
+Guess 1: golan
+  Eliminated 39887 words (99.9%)
+  Valid words remaining: 46
+Guess 2: bonap
+  Eliminated 23 words (50.0%)
+  Valid words remaining: 23
+Guess 3: donax
+  Eliminated 19 words (82.6%)
+  Valid words remaining: 4
+Guess 4: donas
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: donat
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: donar
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 9 ---
+Target: inbev
+Starting with 39933 valid words
+Guess 1: dalco
+  Eliminated 33899 words (84.9%)
+  Valid words remaining: 6034
+Guess 2: stint
+  Eliminated 5682 words (94.2%)
+  Valid words remaining: 352
+Guess 3: zinke
+  Eliminated 297 words (84.4%)
+  Valid words remaining: 55
+Guess 4: erwin
+  Eliminated 48 words (87.3%)
+  Valid words remaining: 7
+Guess 5: invex
+  Eliminated 6 words (85.7%)
+  Valid words remaining: 1
+Guess 6: inbev
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 10 ---
+Target: culet
+Starting with 39933 valid words
+Guess 1: nixes
+  Eliminated 37819 words (94.7%)
+  Valid words remaining: 2114
+Guess 2: rated
+  Eliminated 2027 words (95.9%)
+  Valid words remaining: 87
+Guess 3: tyhee
+  Eliminated 62 words (71.3%)
+  Valid words remaining: 25
+Guess 4: owlet
+  Eliminated 23 words (92.0%)
+  Valid words remaining: 2
+Guess 5: gulet
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: culet
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 11 ---
+Target: vlist
+Starting with 39933 valid words
+Guess 1: jbond
+  Eliminated 26212 words (65.6%)
+  Valid words remaining: 13721
+Guess 2: graig
+  Eliminated 12265 words (89.4%)
+  Valid words remaining: 1456
+Guess 3: mpicc
+  Eliminated 1186 words (81.5%)
+  Valid words remaining: 270
+Guess 4: swift
+  Eliminated 253 words (93.7%)
+  Valid words remaining: 17
+Guess 5: tlist
+  Eliminated 9 words (52.9%)
+  Valid words remaining: 8
+Guess 6: qlist
+  Eliminated 1 words (12.5%)
+  Valid words remaining: 7
+Lost in 6 guesses
+
+--- Game 12 ---
+Target: bbhub
+Starting with 39933 valid words
+Guess 1: talma
+  Eliminated 30089 words (75.3%)
+  Valid words remaining: 9844
+Guess 2: chone
+  Eliminated 9710 words (98.6%)
+  Valid words remaining: 134
+Guess 3: hskip
+  Eliminated 125 words (93.3%)
+  Valid words remaining: 9
+Guess 4: burgh
+  Eliminated 8 words (88.9%)
+  Valid words remaining: 1
+Guess 5: bbhub
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 13 ---
+Target: ariva
+Starting with 39933 valid words
+Guess 1: mauer
+  Eliminated 38503 words (96.4%)
+  Valid words remaining: 1430
+Guess 2: crats
+  Eliminated 1290 words (90.2%)
+  Valid words remaining: 140
+Guess 3: orval
+  Eliminated 135 words (96.4%)
+  Valid words remaining: 5
+Guess 4: priva
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 5: ariva
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 14 ---
+Target: botha
+Starting with 39933 valid words
+Guess 1: havas
+  Eliminated 39225 words (98.2%)
+  Valid words remaining: 708
+Guess 2: chiba
+  Eliminated 705 words (99.6%)
+  Valid words remaining: 3
+Guess 3: bohra
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Guess 4: botha
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 15 ---
+Target: menue
+Starting with 39933 valid words
+Guess 1: deane
+  Eliminated 39848 words (99.8%)
+  Valid words remaining: 85
+Guess 2: tenge
+  Eliminated 48 words (56.5%)
+  Valid words remaining: 37
+Guess 3: cense
+  Eliminated 22 words (59.5%)
+  Valid words remaining: 15
+Guess 4: lenze
+  Eliminated 3 words (20.0%)
+  Valid words remaining: 12
+Guess 5: henie
+  Eliminated 4 words (33.3%)
+  Valid words remaining: 8
+Guess 6: benke
+  Eliminated 4 words (50.0%)
+  Valid words remaining: 4
+Lost in 6 guesses
+
+--- Game 16 ---
+Target: grint
+Starting with 39933 valid words
+Guess 1: froda
+  Eliminated 39301 words (98.4%)
+  Valid words remaining: 632
+Guess 2: kruse
+  Eliminated 541 words (85.6%)
+  Valid words remaining: 91
+Guess 3: prcnt
+  Eliminated 89 words (97.8%)
+  Valid words remaining: 2
+Guess 4: brint
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 5: grint
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 17 ---
+Target: sterk
+Starting with 39933 valid words
+Guess 1: boltz
+  Eliminated 36575 words (91.6%)
+  Valid words remaining: 3358
+Guess 2: autry
+  Eliminated 3297 words (98.2%)
+  Valid words remaining: 61
+Guess 3: fisrt
+  Eliminated 53 words (86.9%)
+  Valid words remaining: 8
+Guess 4: eters
+  Eliminated 6 words (75.0%)
+  Valid words remaining: 2
+Guess 5: stern
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: sterk
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 18 ---
+Target: maves
+Starting with 39933 valid words
+Guess 1: rates
+  Eliminated 39787 words (99.6%)
+  Valid words remaining: 146
+Guess 2: fases
+  Eliminated 26 words (17.8%)
+  Valid words remaining: 120
+Guess 3: wales
+  Eliminated 30 words (25.0%)
+  Valid words remaining: 90
+Guess 4: gazes
+  Eliminated 19 words (21.1%)
+  Valid words remaining: 71
+Guess 5: cakes
+  Eliminated 22 words (31.0%)
+  Valid words remaining: 49
+Guess 6: eades
+  Eliminated 13 words (26.5%)
+  Valid words remaining: 36
+Lost in 6 guesses
+
+--- Game 19 ---
+Target: mrcvs
+Starting with 39933 valid words
+Guess 1: seera
+  Eliminated 39333 words (98.5%)
+  Valid words remaining: 600
+Guess 2: corus
+  Eliminated 588 words (98.0%)
+  Valid words remaining: 12
+Guess 3: mrics
+  Eliminated 11 words (91.7%)
+  Valid words remaining: 1
+Guess 4: mrcvs
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 20 ---
+Target: seiko
+Starting with 39933 valid words
+Guess 1: awais
+  Eliminated 38856 words (97.3%)
+  Valid words remaining: 1077
+Guess 2: listp
+  Eliminated 802 words (74.5%)
+  Valid words remaining: 275
+Guess 3: ismrm
+  Eliminated 141 words (51.3%)
+  Valid words remaining: 134
+Guess 4: sochi
+  Eliminated 127 words (94.8%)
+  Valid words remaining: 7
+Guess 5: seino
+  Eliminated 4 words (57.1%)
+  Valid words remaining: 3
+Guess 6: seigo
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 21 ---
+Target: mmkay
+Starting with 39933 valid words
+Guess 1: tunks
+  Eliminated 38633 words (96.7%)
+  Valid words remaining: 1300
+Guess 2: krama
+  Eliminated 1275 words (98.1%)
+  Valid words remaining: 25
+Guess 3: mikva
+  Eliminated 21 words (84.0%)
+  Valid words remaining: 4
+Guess 4: mmkay
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 22 ---
+Target: kilts
+Starting with 39933 valid words
+Guess 1: hopen
+  Eliminated 32660 words (81.8%)
+  Valid words remaining: 7273
+Guess 2: blurr
+  Eliminated 6425 words (88.3%)
+  Valid words remaining: 848
+Guess 3: sally
+  Eliminated 823 words (97.1%)
+  Valid words remaining: 25
+Guess 4: cilss
+  Eliminated 9 words (36.0%)
+  Valid words remaining: 16
+Guess 5: films
+  Eliminated 5 words (31.2%)
+  Valid words remaining: 11
+Guess 6: gilds
+  Eliminated 7 words (63.6%)
+  Valid words remaining: 4
+Lost in 6 guesses
+
+--- Game 23 ---
+Target: bonne
+Starting with 39933 valid words
+Guess 1: frett
+  Eliminated 33056 words (82.8%)
+  Valid words remaining: 6877
+Guess 2: chloe
+  Eliminated 6574 words (95.6%)
+  Valid words remaining: 303
+Guess 3: moxee
+  Eliminated 157 words (51.8%)
+  Valid words remaining: 146
+Guess 4: posse
+  Eliminated 55 words (37.7%)
+  Valid words remaining: 91
+Guess 5: dowie
+  Eliminated 52 words (57.1%)
+  Valid words remaining: 39
+Guess 6: konze
+  Eliminated 32 words (82.1%)
+  Valid words remaining: 7
+Lost in 6 guesses
+
+--- Game 24 ---
+Target: lozzi
+Starting with 39933 valid words
+Guess 1: byton
+  Eliminated 35401 words (88.7%)
+  Valid words remaining: 4532
+Guess 2: ochil
+  Eliminated 4422 words (97.6%)
+  Valid words remaining: 110
+Guess 3: dillo
+  Eliminated 72 words (65.5%)
+  Valid words remaining: 38
+Guess 4: alofi
+  Eliminated 31 words (81.6%)
+  Valid words remaining: 7
+Guess 5: lozzi
+  Eliminated 6 words (85.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 25 ---
+Target: itedo
+Starting with 39933 valid words
+Guess 1: gotto
+  Eliminated 39657 words (99.3%)
+  Valid words remaining: 276
+Guess 2: tauro
+  Eliminated 210 words (76.1%)
+  Valid words remaining: 66
+Guess 3: edito
+  Eliminated 65 words (98.5%)
+  Valid words remaining: 1
+Guess 4: itedo
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 26 ---
+Target: kedua
+Starting with 39933 valid words
+Guess 1: shuzo
+  Eliminated 37641 words (94.3%)
+  Valid words remaining: 2292
+Guess 2: iucaa
+  Eliminated 2271 words (99.1%)
+  Valid words remaining: 21
+Guess 3: urena
+  Eliminated 18 words (85.7%)
+  Valid words remaining: 3
+Guess 4: melua
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Guess 5: kedua
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 27 ---
+Target: blunk
+Starting with 39933 valid words
+Guess 1: fenno
+  Eliminated 39108 words (97.9%)
+  Valid words remaining: 825
+Guess 2: dirnt
+  Eliminated 622 words (75.4%)
+  Valid words remaining: 203
+Guess 3: bcans
+  Eliminated 201 words (99.0%)
+  Valid words remaining: 2
+Guess 4: byung
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 5: blunk
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 28 ---
+Target: tatem
+Starting with 39933 valid words
+Guess 1: bilby
+  Eliminated 24465 words (61.3%)
+  Valid words remaining: 15468
+Guess 2: wmass
+  Eliminated 14503 words (93.8%)
+  Valid words remaining: 965
+Guess 3: maxed
+  Eliminated 919 words (95.2%)
+  Valid words remaining: 46
+Guess 4: gamez
+  Eliminated 39 words (84.8%)
+  Valid words remaining: 7
+Guess 5: harem
+  Eliminated 3 words (42.9%)
+  Valid words remaining: 4
+Guess 6: tatem
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 29 ---
+Target: raids
+Starting with 39933 valid words
+Guess 1: wisla
+  Eliminated 39458 words (98.8%)
+  Valid words remaining: 475
+Guess 2: ramsi
+  Eliminated 473 words (99.6%)
+  Valid words remaining: 2
+Guess 3: rains
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 4: raids
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 30 ---
+Target: kasal
+Starting with 39933 valid words
+Guess 1: lokal
+  Eliminated 39919 words (100.0%)
+  Valid words remaining: 14
+Guess 2: akmal
+  Eliminated 8 words (57.1%)
+  Valid words remaining: 6
+Guess 3: kajal
+  Eliminated 2 words (33.3%)
+  Valid words remaining: 4
+Guess 4: kabal
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: kayal
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: kanal
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 31 ---
+Target: redig
+Starting with 39933 valid words
+Guess 1: htoel
+  Eliminated 36098 words (90.4%)
+  Valid words remaining: 3835
+Guess 2: asefi
+  Eliminated 3438 words (89.6%)
+  Valid words remaining: 397
+Guess 3: nixie
+  Eliminated 348 words (87.7%)
+  Valid words remaining: 49
+Guess 4: devid
+  Eliminated 35 words (71.4%)
+  Valid words remaining: 14
+Guess 5: keyid
+  Eliminated 6 words (42.9%)
+  Valid words remaining: 8
+Guess 6: medir
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 32 ---
+Target: jogos
+Starting with 39933 valid words
+Guess 1: kesey
+  Eliminated 34687 words (86.9%)
+  Valid words remaining: 5246
+Guess 2: shota
+  Eliminated 4870 words (92.8%)
+  Valid words remaining: 376
+Guess 3: gorls
+  Eliminated 366 words (97.3%)
+  Valid words remaining: 10
+Guess 4: jogos
+  Eliminated 9 words (90.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 33 ---
+Target: flies
+Starting with 39933 valid words
+Guess 1: video
+  Eliminated 39666 words (99.3%)
+  Valid words remaining: 267
+Guess 2: ismet
+  Eliminated 230 words (86.1%)
+  Valid words remaining: 37
+Guess 3: shuei
+  Eliminated 24 words (64.9%)
+  Valid words remaining: 13
+Guess 4: cries
+  Eliminated 7 words (53.8%)
+  Valid words remaining: 6
+Guess 5: egies
+  Eliminated 2 words (33.3%)
+  Valid words remaining: 4
+Guess 6: abies
+  Eliminated 2 words (50.0%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 34 ---
+Target: glues
+Starting with 39933 valid words
+Guess 1: kores
+  Eliminated 39415 words (98.7%)
+  Valid words remaining: 518
+Guess 2: tapes
+  Eliminated 287 words (55.4%)
+  Valid words remaining: 231
+Guess 3: jeees
+  Eliminated 74 words (32.0%)
+  Valid words remaining: 157
+Guess 4: himes
+  Eliminated 112 words (71.3%)
+  Valid words remaining: 45
+Guess 5: ucles
+  Eliminated 39 words (86.7%)
+  Valid words remaining: 6
+Guess 6: lubes
+  Eliminated 4 words (66.7%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 35 ---
+Target: alcoy
+Starting with 39933 valid words
+Guess 1: topos
+  Eliminated 38985 words (97.6%)
+  Valid words remaining: 948
+Guess 2: wbcom
+  Eliminated 886 words (93.5%)
+  Valid words remaining: 62
+Guess 3: dicor
+  Eliminated 40 words (64.5%)
+  Valid words remaining: 22
+Guess 4: ancon
+  Eliminated 19 words (86.4%)
+  Valid words remaining: 3
+Guess 5: alcoy
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 36 ---
+Target: rybie
+Starting with 39933 valid words
+Guess 1: devos
+  Eliminated 35486 words (88.9%)
+  Valid words remaining: 4447
+Guess 2: kaige
+  Eliminated 4242 words (95.4%)
+  Valid words remaining: 205
+Guess 3: wille
+  Eliminated 160 words (78.0%)
+  Valid words remaining: 45
+Guess 4: emmie
+  Eliminated 30 words (66.7%)
+  Valid words remaining: 15
+Guess 5: junie
+  Eliminated 10 words (66.7%)
+  Valid words remaining: 5
+Guess 6: rybie
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 37 ---
+Target: dyers
+Starting with 39933 valid words
+Guess 1: wkhuh
+  Eliminated 16402 words (41.1%)
+  Valid words remaining: 23531
+Guess 2: raper
+  Eliminated 22668 words (96.3%)
+  Valid words remaining: 863
+Guess 3: drole
+  Eliminated 844 words (97.8%)
+  Valid words remaining: 19
+Guess 4: deryn
+  Eliminated 18 words (94.7%)
+  Valid words remaining: 1
+Guess 5: dyers
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 38 ---
+Target: netze
+Starting with 39933 valid words
+Guess 1: taith
+  Eliminated 37982 words (95.1%)
+  Valid words remaining: 1951
+Guess 2: storr
+  Eliminated 1574 words (80.7%)
+  Valid words remaining: 377
+Guess 3: deutz
+  Eliminated 371 words (98.4%)
+  Valid words remaining: 6
+Guess 4: zetec
+  Eliminated 4 words (66.7%)
+  Valid words remaining: 2
+Guess 5: metze
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: netze
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 39 ---
+Target: folos
+Starting with 39933 valid words
+Guess 1: reinz
+  Eliminated 32919 words (82.4%)
+  Valid words remaining: 7014
+Guess 2: poppa
+  Eliminated 6110 words (87.1%)
+  Valid words remaining: 904
+Guess 3: toool
+  Eliminated 884 words (97.8%)
+  Valid words remaining: 20
+Guess 4: folos
+  Eliminated 19 words (95.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 40 ---
+Target: viger
+Starting with 39933 valid words
+Guess 1: bubby
+  Eliminated 13800 words (34.6%)
+  Valid words remaining: 26133
+Guess 2: seest
+  Eliminated 22224 words (85.0%)
+  Valid words remaining: 3909
+Guess 3: nacre
+  Eliminated 3580 words (91.6%)
+  Valid words remaining: 329
+Guess 4: rized
+  Eliminated 280 words (85.1%)
+  Valid words remaining: 49
+Guess 5: filer
+  Eliminated 23 words (46.9%)
+  Valid words remaining: 26
+Guess 6: wiger
+  Eliminated 21 words (80.8%)
+  Valid words remaining: 5
+Lost in 6 guesses
+
+--- Game 41 ---
+Target: johnm
+Starting with 39933 valid words
+Guess 1: budke
+  Eliminated 28070 words (70.3%)
+  Valid words remaining: 11863
+Guess 2: razon
+  Eliminated 11536 words (97.2%)
+  Valid words remaining: 327
+Guess 3: tonic
+  Eliminated 293 words (89.6%)
+  Valid words remaining: 34
+Guess 4: moong
+  Eliminated 33 words (97.1%)
+  Valid words remaining: 1
+Guess 5: johnm
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 42 ---
+Target: sydow
+Starting with 39933 valid words
+Guess 1: match
+  Eliminated 30416 words (76.2%)
+  Valid words remaining: 9517
+Guess 2: gogpo
+  Eliminated 8346 words (87.7%)
+  Valid words remaining: 1171
+Guess 3: delio
+  Eliminated 1134 words (96.8%)
+  Valid words remaining: 37
+Guess 4: zdrok
+  Eliminated 28 words (75.7%)
+  Valid words remaining: 9
+Guess 5: budos
+  Eliminated 8 words (88.9%)
+  Valid words remaining: 1
+Guess 6: sydow
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 43 ---
+Target: icsti
+Starting with 39933 valid words
+Guess 1: warms
+  Eliminated 37444 words (93.8%)
+  Valid words remaining: 2489
+Guess 2: finsh
+  Eliminated 2188 words (87.9%)
+  Valid words remaining: 301
+Guess 3: jusic
+  Eliminated 291 words (96.7%)
+  Valid words remaining: 10
+Guess 4: cesti
+  Eliminated 9 words (90.0%)
+  Valid words remaining: 1
+Guess 5: icsti
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 44 ---
+Target: adobe
+Starting with 39933 valid words
+Guess 1: thatd
+  Eliminated 38369 words (96.1%)
+  Valid words remaining: 1564
+Guess 2: andis
+  Eliminated 1510 words (96.5%)
+  Valid words remaining: 54
+Guess 3: adzam
+  Eliminated 30 words (55.6%)
+  Valid words remaining: 24
+Guess 4: adver
+  Eliminated 19 words (79.2%)
+  Valid words remaining: 5
+Guess 5: adude
+  Eliminated 2 words (40.0%)
+  Valid words remaining: 3
+Guess 6: adeje
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 45 ---
+Target: hurdy
+Starting with 39933 valid words
+Guess 1: clock
+  Eliminated 25057 words (62.7%)
+  Valid words remaining: 14876
+Guess 2: wiget
+  Eliminated 12690 words (85.3%)
+  Valid words remaining: 2186
+Guess 3: barda
+  Eliminated 2182 words (99.8%)
+  Valid words remaining: 4
+Guess 4: hurdy
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 46 ---
+Target: iebar
+Starting with 39933 valid words
+Guess 1: cogen
+  Eliminated 35386 words (88.6%)
+  Valid words remaining: 4547
+Guess 2: leupp
+  Eliminated 3499 words (77.0%)
+  Valid words remaining: 1048
+Guess 3: besse
+  Eliminated 1000 words (95.4%)
+  Valid words remaining: 48
+Guess 4: kerby
+  Eliminated 37 words (77.1%)
+  Valid words remaining: 11
+Guess 5: debar
+  Eliminated 9 words (81.8%)
+  Valid words remaining: 2
+Guess 6: iebar
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 47 ---
+Target: audel
+Starting with 39933 valid words
+Guess 1: fstab
+  Eliminated 33372 words (83.6%)
+  Valid words remaining: 6561
+Guess 2: payin
+  Eliminated 5364 words (81.8%)
+  Valid words remaining: 1197
+Guess 3: aloka
+  Eliminated 1170 words (97.7%)
+  Valid words remaining: 27
+Guess 4: arlee
+  Eliminated 22 words (81.5%)
+  Valid words remaining: 5
+Guess 5: aquel
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 6: audel
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 48 ---
+Target: wydot
+Starting with 39933 valid words
+Guess 1: lldpe
+  Eliminated 39282 words (98.4%)
+  Valid words remaining: 651
+Guess 2: addon
+  Eliminated 596 words (91.6%)
+  Valid words remaining: 55
+Guess 3: sydow
+  Eliminated 54 words (98.2%)
+  Valid words remaining: 1
+Guess 4: wydot
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 49 ---
+Target: annul
+Starting with 39933 valid words
+Guess 1: hythe
+  Eliminated 26586 words (66.6%)
+  Valid words remaining: 13347
+Guess 2: vanua
+  Eliminated 13341 words (100.0%)
+  Valid words remaining: 6
+Guess 3: agnus
+  Eliminated 3 words (50.0%)
+  Valid words remaining: 3
+Guess 4: alnum
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Guess 5: annul
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 50 ---
+Target: stank
+Starting with 39933 valid words
+Guess 1: stoel
+  Eliminated 39788 words (99.6%)
+  Valid words remaining: 145
+Guess 2: stara
+  Eliminated 104 words (71.7%)
+  Valid words remaining: 41
+Guess 3: stash
+  Eliminated 11 words (26.8%)
+  Valid words remaining: 30
+Guess 4: stapp
+  Eliminated 3 words (10.0%)
+  Valid words remaining: 27
+Guess 5: stabi
+  Eliminated 8 words (29.6%)
+  Valid words remaining: 19
+Guess 6: stacy
+  Eliminated 3 words (15.8%)
+  Valid words remaining: 16
+Lost in 6 guesses
+
+--- Game 51 ---
+Target: hedda
+Starting with 39933 valid words
+Guess 1: navin
+  Eliminated 34392 words (86.1%)
+  Valid words remaining: 5541
+Guess 2: sfbay
+  Eliminated 3678 words (66.4%)
+  Valid words remaining: 1863
+Guess 3: kulpa
+  Eliminated 1551 words (83.3%)
+  Valid words remaining: 312
+Guess 4: cerda
+  Eliminated 309 words (99.0%)
+  Valid words remaining: 3
+Guess 5: gedda
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: hedda
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 52 ---
+Target: laake
+Starting with 39933 valid words
+Guess 1: prout
+  Eliminated 30157 words (75.5%)
+  Valid words remaining: 9776
+Guess 2: fenix
+  Eliminated 8711 words (89.1%)
+  Valid words remaining: 1065
+Guess 3: jakes
+  Eliminated 1041 words (97.7%)
+  Valid words remaining: 24
+Guess 4: hawke
+  Eliminated 16 words (66.7%)
+  Valid words remaining: 8
+Guess 5: balke
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Guess 6: laake
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 53 ---
+Target: devin
+Starting with 39933 valid words
+Guess 1: kalos
+  Eliminated 34991 words (87.6%)
+  Valid words remaining: 4942
+Guess 2: medru
+  Eliminated 4820 words (97.5%)
+  Valid words remaining: 122
+Guess 3: feted
+  Eliminated 96 words (78.7%)
+  Valid words remaining: 26
+Guess 4: denby
+  Eliminated 23 words (88.5%)
+  Valid words remaining: 3
+Guess 5: decin
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Guess 6: devin
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 54 ---
+Target: kovac
+Starting with 39933 valid words
+Guess 1: apion
+  Eliminated 38479 words (96.4%)
+  Valid words remaining: 1454
+Guess 2: otaru
+  Eliminated 926 words (63.7%)
+  Valid words remaining: 528
+Guess 3: zoysa
+  Eliminated 451 words (85.4%)
+  Valid words remaining: 77
+Guess 4: womac
+  Eliminated 73 words (94.8%)
+  Valid words remaining: 4
+Guess 5: bohac
+  Eliminated 2 words (50.0%)
+  Valid words remaining: 2
+Guess 6: colac
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 55 ---
+Target: taral
+Starting with 39933 valid words
+Guess 1: ravel
+  Eliminated 39906 words (99.9%)
+  Valid words remaining: 27
+Guess 2: paril
+  Eliminated 6 words (22.2%)
+  Valid words remaining: 21
+Guess 3: hartl
+  Eliminated 20 words (95.2%)
+  Valid words remaining: 1
+Guess 4: taral
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 56 ---
+Target: nedan
+Starting with 39933 valid words
+Guess 1: losee
+  Eliminated 36371 words (91.1%)
+  Valid words remaining: 3562
+Guess 2: thecb
+  Eliminated 2333 words (65.5%)
+  Valid words remaining: 1229
+Guess 3: penna
+  Eliminated 1227 words (99.8%)
+  Valid words remaining: 2
+Guess 4: nedan
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 57 ---
+Target: girth
+Starting with 39933 valid words
+Guess 1: smsgt
+  Eliminated 39649 words (99.3%)
+  Valid words remaining: 284
+Guess 2: tagan
+  Eliminated 195 words (68.7%)
+  Valid words remaining: 89
+Guess 3: goltv
+  Eliminated 67 words (75.3%)
+  Valid words remaining: 22
+Guess 4: getti
+  Eliminated 16 words (72.7%)
+  Valid words remaining: 6
+Guess 5: giftd
+  Eliminated 4 words (66.7%)
+  Valid words remaining: 2
+Guess 6: girty
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 58 ---
+Target: henke
+Starting with 39933 valid words
+Guess 1: jokws
+  Eliminated 38089 words (95.4%)
+  Valid words remaining: 1844
+Guess 2: karvy
+  Eliminated 1604 words (87.0%)
+  Valid words remaining: 240
+Guess 3: ukmix
+  Eliminated 206 words (85.8%)
+  Valid words remaining: 34
+Guess 4: delek
+  Eliminated 29 words (85.3%)
+  Valid words remaining: 5
+Guess 5: hecke
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 6: henke
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 59 ---
+Target: noout
+Starting with 39933 valid words
+Guess 1: shade
+  Eliminated 35534 words (89.0%)
+  Valid words remaining: 4399
+Guess 2: pouco
+  Eliminated 4397 words (100.0%)
+  Valid words remaining: 2
+Guess 3: gokou
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 4: noout
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 60 ---
+Target: unlim
+Starting with 39933 valid words
+Guess 1: stork
+  Eliminated 32220 words (80.7%)
+  Valid words remaining: 7713
+Guess 2: luved
+  Eliminated 7586 words (98.4%)
+  Valid words remaining: 127
+Guess 3: ilium
+  Eliminated 126 words (99.2%)
+  Valid words remaining: 1
+Guess 4: unlim
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 61 ---
+Target: slean
+Starting with 39933 valid words
+Guess 1: karat
+  Eliminated 38626 words (96.7%)
+  Valid words remaining: 1307
+Guess 2: vefas
+  Eliminated 1278 words (97.8%)
+  Valid words remaining: 29
+Guess 3: elsam
+  Eliminated 28 words (96.6%)
+  Valid words remaining: 1
+Guess 4: slean
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 62 ---
+Target: syron
+Starting with 39933 valid words
+Guess 1: ctime
+  Eliminated 32759 words (82.0%)
+  Valid words remaining: 7174
+Guess 2: gowdy
+  Eliminated 7028 words (98.0%)
+  Valid words remaining: 146
+Guess 3: hayao
+  Eliminated 113 words (77.4%)
+  Valid words remaining: 33
+Guess 4: yusof
+  Eliminated 27 words (81.8%)
+  Valid words remaining: 6
+Guess 5: syros
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Guess 6: syron
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 63 ---
+Target: krimi
+Starting with 39933 valid words
+Guess 1: wyatt
+  Eliminated 26847 words (67.2%)
+  Valid words remaining: 13086
+Guess 2: zinin
+  Eliminated 12974 words (99.1%)
+  Valid words remaining: 112
+Guess 3: ilium
+  Eliminated 104 words (92.9%)
+  Valid words remaining: 8
+Guess 4: kmidi
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Guess 5: krimi
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 64 ---
+Target: monik
+Starting with 39933 valid words
+Guess 1: cando
+  Eliminated 39634 words (99.3%)
+  Valid words remaining: 299
+Guess 2: sonne
+  Eliminated 249 words (83.3%)
+  Valid words remaining: 50
+Guess 3: monit
+  Eliminated 47 words (94.0%)
+  Valid words remaining: 3
+Guess 4: monik
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 65 ---
+Target: kainz
+Starting with 39933 valid words
+Guess 1: aveni
+  Eliminated 39780 words (99.6%)
+  Valid words remaining: 153
+Guess 2: jiang
+  Eliminated 95 words (62.1%)
+  Valid words remaining: 58
+Guess 3: trina
+  Eliminated 42 words (72.4%)
+  Valid words remaining: 16
+Guess 4: sains
+  Eliminated 7 words (43.8%)
+  Valid words remaining: 9
+Guess 5: mainz
+  Eliminated 8 words (88.9%)
+  Valid words remaining: 1
+Guess 6: kainz
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 66 ---
+Target: stoff
+Starting with 39933 valid words
+Guess 1: eldor
+  Eliminated 37038 words (92.8%)
+  Valid words remaining: 2895
+Guess 2: choss
+  Eliminated 2755 words (95.2%)
+  Valid words remaining: 140
+Guess 3: boogs
+  Eliminated 102 words (72.9%)
+  Valid words remaining: 38
+Guess 4: stomp
+  Eliminated 27 words (71.1%)
+  Valid words remaining: 11
+Guess 5: stovk
+  Eliminated 4 words (36.4%)
+  Valid words remaining: 7
+Guess 6: stotz
+  Eliminated 4 words (57.1%)
+  Valid words remaining: 3
+Lost in 6 guesses
+
+--- Game 67 ---
+Target: rubia
+Starting with 39933 valid words
+Guess 1: eagar
+  Eliminated 38486 words (96.4%)
+  Valid words remaining: 1447
+Guess 2: rimas
+  Eliminated 1439 words (99.4%)
+  Valid words remaining: 8
+Guess 3: robia
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Guess 4: rubia
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 68 ---
+Target: nakes
+Starting with 39933 valid words
+Guess 1: quiet
+  Eliminated 36796 words (92.1%)
+  Valid words remaining: 3137
+Guess 2: genex
+  Eliminated 2785 words (88.8%)
+  Valid words remaining: 352
+Guess 3: cahen
+  Eliminated 325 words (92.3%)
+  Valid words remaining: 27
+Guess 4: nabel
+  Eliminated 5 words (18.5%)
+  Valid words remaining: 22
+Guess 5: nayef
+  Eliminated 3 words (13.6%)
+  Valid words remaining: 19
+Guess 6: nakes
+  Eliminated 18 words (94.7%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 69 ---
+Target: nazca
+Starting with 39933 valid words
+Guess 1: benni
+  Eliminated 37610 words (94.2%)
+  Valid words remaining: 2323
+Guess 2: fnord
+  Eliminated 1679 words (72.3%)
+  Valid words remaining: 644
+Guess 3: shana
+  Eliminated 623 words (96.7%)
+  Valid words remaining: 21
+Guess 4: njcaa
+  Eliminated 19 words (90.5%)
+  Valid words remaining: 2
+Guess 5: natca
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: nazca
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 70 ---
+Target: avard
+Starting with 39933 valid words
+Guess 1: igang
+  Eliminated 38121 words (95.5%)
+  Valid words remaining: 1812
+Guess 2: reaal
+  Eliminated 1702 words (93.9%)
+  Valid words remaining: 110
+Guess 3: azara
+  Eliminated 90 words (81.8%)
+  Valid words remaining: 20
+Guess 4: arars
+  Eliminated 8 words (40.0%)
+  Valid words remaining: 12
+Guess 5: akard
+  Eliminated 9 words (75.0%)
+  Valid words remaining: 3
+Guess 6: award
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 71 ---
+Target: brisa
+Starting with 39933 valid words
+Guess 1: miwok
+  Eliminated 35201 words (88.2%)
+  Valid words remaining: 4732
+Guess 2: pelli
+  Eliminated 3259 words (68.9%)
+  Valid words remaining: 1473
+Guess 3: faqih
+  Eliminated 1267 words (86.0%)
+  Valid words remaining: 206
+Guess 4: icann
+  Eliminated 151 words (73.3%)
+  Valid words remaining: 55
+Guess 5: arist
+  Eliminated 53 words (96.4%)
+  Valid words remaining: 2
+Guess 6: urisa
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 72 ---
+Target: tided
+Starting with 39933 valid words
+Guess 1: ratee
+  Eliminated 39683 words (99.4%)
+  Valid words remaining: 250
+Guess 2: mypet
+  Eliminated 183 words (73.2%)
+  Valid words remaining: 67
+Guess 3: tided
+  Eliminated 66 words (98.5%)
+  Valid words remaining: 1
+Won in 3 guesses
+
+--- Game 73 ---
+Target: solid
+Starting with 39933 valid words
+Guess 1: counc
+  Eliminated 36745 words (92.0%)
+  Valid words remaining: 3188
+Guess 2: fogle
+  Eliminated 2894 words (90.8%)
+  Valid words remaining: 294
+Guess 3: lotts
+  Eliminated 271 words (92.2%)
+  Valid words remaining: 23
+Guess 4: solid
+  Eliminated 22 words (95.7%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 74 ---
+Target: fault
+Starting with 39933 valid words
+Guess 1: malts
+  Eliminated 39869 words (99.8%)
+  Valid words remaining: 64
+Guess 2: tavel
+  Eliminated 46 words (71.9%)
+  Valid words remaining: 18
+Guess 3: latha
+  Eliminated 14 words (77.8%)
+  Valid words remaining: 4
+Guess 4: dault
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: gault
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: fault
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 75 ---
+Target: bemba
+Starting with 39933 valid words
+Guess 1: chuou
+  Eliminated 24133 words (60.4%)
+  Valid words remaining: 15800
+Guess 2: vanir
+  Eliminated 14619 words (92.5%)
+  Valid words remaining: 1181
+Guess 3: emmas
+  Eliminated 1172 words (99.2%)
+  Valid words remaining: 9
+Guess 4: atmel
+  Eliminated 5 words (55.6%)
+  Valid words remaining: 4
+Guess 5: bemba
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 76 ---
+Target: hoyts
+Starting with 39933 valid words
+Guess 1: adylt
+  Eliminated 39886 words (99.9%)
+  Valid words remaining: 47
+Guess 2: rhyth
+  Eliminated 43 words (91.5%)
+  Valid words remaining: 4
+Guess 3: hoyts
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 3 guesses
+
+--- Game 77 ---
+Target: coeli
+Starting with 39933 valid words
+Guess 1: adham
+  Eliminated 27298 words (68.4%)
+  Valid words remaining: 12635
+Guess 2: bcpss
+  Eliminated 11583 words (91.7%)
+  Valid words remaining: 1052
+Guess 3: coeff
+  Eliminated 1047 words (99.5%)
+  Valid words remaining: 5
+Guess 4: coeur
+  Eliminated 2 words (40.0%)
+  Valid words remaining: 3
+Guess 5: coene
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: coell
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 78 ---
+Target: remax
+Starting with 39933 valid words
+Guess 1: warwz
+  Eliminated 37538 words (94.0%)
+  Valid words remaining: 2395
+Guess 2: letra
+  Eliminated 2323 words (97.0%)
+  Valid words remaining: 72
+Guess 3: hepar
+  Eliminated 60 words (83.3%)
+  Valid words remaining: 12
+Guess 4: renay
+  Eliminated 9 words (75.0%)
+  Valid words remaining: 3
+Guess 5: remax
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 79 ---
+Target: soffe
+Starting with 39933 valid words
+Guess 1: butch
+  Eliminated 24092 words (60.3%)
+  Valid words remaining: 15841
+Guess 2: dalyn
+  Eliminated 13802 words (87.1%)
+  Valid words remaining: 2039
+Guess 3: skier
+  Eliminated 2018 words (99.0%)
+  Valid words remaining: 21
+Guess 4: swoje
+  Eliminated 19 words (90.5%)
+  Valid words remaining: 2
+Guess 5: somme
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: soffe
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 80 ---
+Target: exces
+Starting with 39933 valid words
+Guess 1: romme
+  Eliminated 34859 words (87.3%)
+  Valid words remaining: 5074
+Guess 2: adena
+  Eliminated 3891 words (76.7%)
+  Valid words remaining: 1183
+Guess 3: celli
+  Eliminated 1153 words (97.5%)
+  Valid words remaining: 30
+Guess 4: xspec
+  Eliminated 29 words (96.7%)
+  Valid words remaining: 1
+Guess 5: exces
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 81 ---
+Target: anjan
+Starting with 39933 valid words
+Guess 1: fodes
+  Eliminated 32820 words (82.2%)
+  Valid words remaining: 7113
+Guess 2: rntcp
+  Eliminated 7021 words (98.7%)
+  Valid words remaining: 92
+Guess 3: jnana
+  Eliminated 91 words (98.9%)
+  Valid words remaining: 1
+Guess 4: anjan
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 82 ---
+Target: tiler
+Starting with 39933 valid words
+Guess 1: usace
+  Eliminated 36020 words (90.2%)
+  Valid words remaining: 3913
+Guess 2: vogel
+  Eliminated 3736 words (95.5%)
+  Valid words remaining: 177
+Guess 3: telep
+  Eliminated 173 words (97.7%)
+  Valid words remaining: 4
+Guess 4: tyler
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Guess 5: tiler
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 83 ---
+Target: vigna
+Starting with 39933 valid words
+Guess 1: paril
+  Eliminated 38746 words (97.0%)
+  Valid words remaining: 1187
+Guess 2: amity
+  Eliminated 791 words (66.6%)
+  Valid words remaining: 396
+Guess 3: isaak
+  Eliminated 290 words (73.2%)
+  Valid words remaining: 106
+Guess 4: digna
+  Eliminated 104 words (98.1%)
+  Valid words remaining: 2
+Guess 5: vigna
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 84 ---
+Target: nagat
+Starting with 39933 valid words
+Guess 1: aiche
+  Eliminated 34576 words (86.6%)
+  Valid words remaining: 5357
+Guess 2: yafro
+  Eliminated 4345 words (81.1%)
+  Valid words remaining: 1012
+Guess 3: kalka
+  Eliminated 842 words (83.2%)
+  Valid words remaining: 170
+Guess 4: banan
+  Eliminated 119 words (70.0%)
+  Valid words remaining: 51
+Guess 5: taman
+  Eliminated 49 words (96.1%)
+  Valid words remaining: 2
+Guess 6: nagat
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 85 ---
+Target: takin
+Starting with 39933 valid words
+Guess 1: msdos
+  Eliminated 27947 words (70.0%)
+  Valid words remaining: 11986
+Guess 2: bract
+  Eliminated 11386 words (95.0%)
+  Valid words remaining: 600
+Guess 3: patal
+  Eliminated 515 words (85.8%)
+  Valid words remaining: 85
+Guess 4: taiki
+  Eliminated 81 words (95.3%)
+  Valid words remaining: 4
+Guess 5: takie
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Guess 6: takin
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 86 ---
+Target: zeros
+Starting with 39933 valid words
+Guess 1: parth
+  Eliminated 38779 words (97.1%)
+  Valid words remaining: 1154
+Guess 2: birls
+  Eliminated 1038 words (89.9%)
+  Valid words remaining: 116
+Guess 3: derks
+  Eliminated 93 words (80.2%)
+  Valid words remaining: 23
+Guess 4: meros
+  Eliminated 21 words (91.3%)
+  Valid words remaining: 2
+Guess 5: neros
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: zeros
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 87 ---
+Target: nview
+Starting with 39933 valid words
+Guess 1: vitez
+  Eliminated 39903 words (99.9%)
+  Valid words remaining: 30
+Guess 2: ivrea
+  Eliminated 20 words (66.7%)
+  Valid words remaining: 10
+Guess 3: uview
+  Eliminated 3 words (30.0%)
+  Valid words remaining: 7
+Guess 4: nview
+  Eliminated 6 words (85.7%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 88 ---
+Target: sedco
+Starting with 39933 valid words
+Guess 1: keule
+  Eliminated 37789 words (94.6%)
+  Valid words remaining: 2144
+Guess 2: pends
+  Eliminated 2104 words (98.1%)
+  Valid words remaining: 40
+Guess 3: desha
+  Eliminated 31 words (77.5%)
+  Valid words remaining: 9
+Guess 4: setid
+  Eliminated 4 words (44.4%)
+  Valid words remaining: 5
+Guess 5: sedov
+  Eliminated 3 words (60.0%)
+  Valid words remaining: 2
+Guess 6: sedro
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 89 ---
+Target: papaw
+Starting with 39933 valid words
+Guess 1: ifdim
+  Eliminated 22827 words (57.2%)
+  Valid words remaining: 17106
+Guess 2: nobex
+  Eliminated 14414 words (84.3%)
+  Valid words remaining: 2692
+Guess 3: gjrls
+  Eliminated 2393 words (88.9%)
+  Valid words remaining: 299
+Guess 4: patak
+  Eliminated 296 words (99.0%)
+  Valid words remaining: 3
+Guess 5: papaw
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 90 ---
+Target: netra
+Starting with 39933 valid words
+Guess 1: lenti
+  Eliminated 39871 words (99.8%)
+  Valid words remaining: 62
+Guess 2: nebet
+  Eliminated 52 words (83.9%)
+  Valid words remaining: 10
+Guess 3: netac
+  Eliminated 9 words (90.0%)
+  Valid words remaining: 1
+Guess 4: netra
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 91 ---
+Target: elude
+Starting with 39933 valid words
+Guess 1: jable
+  Eliminated 39543 words (99.0%)
+  Valid words remaining: 390
+Guess 2: llike
+  Eliminated 331 words (84.9%)
+  Valid words remaining: 59
+Guess 3: clere
+  Eliminated 52 words (88.1%)
+  Valid words remaining: 7
+Guess 4: elune
+  Eliminated 5 words (71.4%)
+  Valid words remaining: 2
+Guess 5: elude
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 92 ---
+Target: creon
+Starting with 39933 valid words
+Guess 1: kundi
+  Eliminated 36875 words (92.3%)
+  Valid words remaining: 3058
+Guess 2: enoyl
+  Eliminated 2816 words (92.1%)
+  Valid words remaining: 242
+Guess 3: tebon
+  Eliminated 237 words (97.9%)
+  Valid words remaining: 5
+Guess 4: aceon
+  Eliminated 3 words (60.0%)
+  Valid words remaining: 2
+Guess 5: creon
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 93 ---
+Target: rdram
+Starting with 39933 valid words
+Guess 1: proby
+  Eliminated 35475 words (88.8%)
+  Valid words remaining: 4458
+Guess 2: citer
+  Eliminated 3925 words (88.0%)
+  Valid words remaining: 533
+Guess 3: sarun
+  Eliminated 517 words (97.0%)
+  Valid words remaining: 16
+Guess 4: gwrra
+  Eliminated 15 words (93.8%)
+  Valid words remaining: 1
+Guess 5: rdram
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 94 ---
+Target: lijun
+Starting with 39933 valid words
+Guess 1: valic
+  Eliminated 39098 words (97.9%)
+  Valid words remaining: 835
+Guess 2: negli
+  Eliminated 767 words (91.9%)
+  Valid words remaining: 68
+Guess 3: zinkl
+  Eliminated 62 words (91.2%)
+  Valid words remaining: 6
+Guess 4: lions
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Guess 5: lijun
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 95 ---
+Target: czyli
+Starting with 39933 valid words
+Guess 1: nzctu
+  Eliminated 39924 words (100.0%)
+  Valid words remaining: 9
+Guess 2: czyli
+  Eliminated 8 words (88.9%)
+  Valid words remaining: 1
+Won in 2 guesses
+
+--- Game 96 ---
+Target: kasim
+Starting with 39933 valid words
+Guess 1: bjorg
+  Eliminated 25771 words (64.5%)
+  Valid words remaining: 14162
+Guess 2: excel
+  Eliminated 10255 words (72.4%)
+  Valid words remaining: 3907
+Guess 3: withh
+  Eliminated 3227 words (82.6%)
+  Valid words remaining: 680
+Guess 4: david
+  Eliminated 611 words (89.9%)
+  Valid words remaining: 69
+Guess 5: aasia
+  Eliminated 63 words (91.3%)
+  Valid words remaining: 6
+Guess 6: sasin
+  Eliminated 4 words (66.7%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 97 ---
+Target: itsus
+Starting with 39933 valid words
+Guess 1: hyoid
+  Eliminated 34966 words (87.6%)
+  Valid words remaining: 4967
+Guess 2: miker
+  Eliminated 4092 words (82.4%)
+  Valid words remaining: 875
+Guess 3: stitt
+  Eliminated 872 words (99.7%)
+  Valid words remaining: 3
+Guess 4: itwas
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 5: ituns
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: itsus
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 98 ---
+Target: babel
+Starting with 39933 valid words
+Guess 1: vedas
+  Eliminated 37882 words (94.9%)
+  Valid words remaining: 2051
+Guess 2: tanke
+  Eliminated 1783 words (86.9%)
+  Valid words remaining: 268
+Guess 3: farey
+  Eliminated 195 words (72.8%)
+  Valid words remaining: 73
+Guess 4: pamel
+  Eliminated 61 words (83.6%)
+  Valid words remaining: 12
+Guess 5: zabel
+  Eliminated 7 words (58.3%)
+  Valid words remaining: 5
+Guess 6: habel
+  Eliminated 1 words (20.0%)
+  Valid words remaining: 4
+Lost in 6 guesses
+
+--- Game 99 ---
+Target: kezia
+Starting with 39933 valid words
+Guess 1: boggs
+  Eliminated 26141 words (65.5%)
+  Valid words remaining: 13792
+Guess 2: prach
+  Eliminated 11210 words (81.3%)
+  Valid words remaining: 2582
+Guess 3: nandi
+  Eliminated 2357 words (91.3%)
+  Valid words remaining: 225
+Guess 4: aieee
+  Eliminated 199 words (88.4%)
+  Valid words remaining: 26
+Guess 5: velia
+  Eliminated 22 words (84.6%)
+  Valid words remaining: 4
+Guess 6: zetia
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 100 ---
+Target: dikke
+Starting with 39933 valid words
+Guess 1: calci
+  Eliminated 35692 words (89.4%)
+  Valid words remaining: 4241
+Guess 2: metin
+  Eliminated 3710 words (87.5%)
+  Valid words remaining: 531
+Guess 3: virez
+  Eliminated 470 words (88.5%)
+  Valid words remaining: 61
+Guess 4: sidhe
+  Eliminated 55 words (90.2%)
+  Valid words remaining: 6
+Guess 5: diode
+  Eliminated 3 words (50.0%)
+  Valid words remaining: 3
+Guess 6: digue
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+==================================================
+Random Agent Results
+==================================================
+Games played: 100
+Win rate: 73.0%
+Average guesses (all games): 5.20
+Average guesses (won games): 7.12
+
+Guess distribution:
+  1:   0 
+  2:   1 
+  3:   2 🟫
+  4:  23 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  5:  24 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  6:  23 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  X:  27
+
+==================================================
+Word Elimination Statistics
+==================================================
+Average starting valid words: 39933.0
+
+Average elimination per guess:
+  Guess 1: 35100.5 words ( 87.9% of remaining) [100 games]
+  Guess 2: 4296.1 words ( 84.3% of remaining) [100 games]
+  Guess 3:  489.4 words ( 82.0% of remaining) [99 games]
+  Guess 4:   43.0 words ( 60.3% of remaining) [97 games]
+  Guess 5:    8.9 words ( 46.0% of remaining) [74 games]
+  Guess 6:    3.1 words ( 35.6% of remaining) [50 games]
+
+Cumulative average reduction from start:
+  After guess 1: 4832.5 words remaining ( 87.9% eliminated) [100 games]
+  After guess 2:  536.3 words remaining ( 98.7% eliminated) [100 games]
+  After guess 3:   46.9 words remaining ( 99.9% eliminated) [99 games]
+  After guess 4:    4.0 words remaining (100.0% eliminated) [97 games]
+  After guess 5:    0.0 words remaining (100.0% eliminated) [74 games]
+  After guess 6:    0.0 words remaining (100.0% eliminated) [50 games]
+
+--- Game 1 ---
+Target: aisan
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38568 words (96.6%)
+  Valid words remaining: 1365
+Guess 2: again
+  Eliminated 1357 words (99.4%)
+  Valid words remaining: 8
+Guess 3: asian
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Guess 4: aisan
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 2 ---
+Target: vlora
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39656 words (99.3%)
+  Valid words remaining: 277
+Guess 2: flora
+  Eliminated 275 words (99.3%)
+  Valid words remaining: 2
+Guess 3: elora
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 4: vlora
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 3 ---
+Target: displ
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 4306 words (72.4%)
+  Valid words remaining: 1643
+Guess 3: links
+  Eliminated 1621 words (98.7%)
+  Valid words remaining: 22
+Guess 4: silly
+  Eliminated 16 words (72.7%)
+  Valid words remaining: 6
+Guess 5: gisle
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Guess 6: displ
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 4 ---
+Target: beary
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38906 words (97.4%)
+  Valid words remaining: 1027
+Guess 2: based
+  Eliminated 950 words (92.5%)
+  Valid words remaining: 77
+Guess 3: beach
+  Eliminated 66 words (85.7%)
+  Valid words remaining: 11
+Guess 4: beale
+  Eliminated 5 words (45.5%)
+  Valid words remaining: 6
+Guess 5: beary
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 5 ---
+Target: hauls
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39018 words (97.7%)
+  Valid words remaining: 915
+Guess 2: human
+  Eliminated 894 words (97.7%)
+  Valid words remaining: 21
+Guess 3: haiku
+  Eliminated 11 words (52.4%)
+  Valid words remaining: 10
+Guess 4: hausa
+  Eliminated 9 words (90.0%)
+  Valid words remaining: 1
+Guess 5: hauls
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 6 ---
+Target: gratz
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38261 words (95.8%)
+  Valid words remaining: 1672
+Guess 2: state
+  Eliminated 1610 words (96.3%)
+  Valid words remaining: 62
+Guess 3: wrath
+  Eliminated 53 words (85.5%)
+  Valid words remaining: 9
+Guess 4: gratz
+  Eliminated 8 words (88.9%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 7 ---
+Target: endal
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7481 words (99.9%)
+  Valid words remaining: 8
+Guess 3: easel
+  Eliminated 5 words (62.5%)
+  Valid words remaining: 3
+Guess 4: excal
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 5: erdal
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: endal
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 8 ---
+Target: danke
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 6411 words (85.6%)
+  Valid words remaining: 1078
+Guess 3: pages
+  Eliminated 962 words (89.2%)
+  Valid words remaining: 116
+Guess 4: dance
+  Eliminated 112 words (96.6%)
+  Valid words remaining: 4
+Guess 5: danke
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 9 ---
+Target: nmsnt
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39291 words (98.4%)
+  Valid words remaining: 642
+Guess 2: first
+  Eliminated 595 words (92.7%)
+  Valid words remaining: 47
+Guess 3: sheet
+  Eliminated 42 words (89.4%)
+  Valid words remaining: 5
+Guess 4: cvsnt
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 5: nmsnt
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 10 ---
+Target: buffy
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39581 words (99.1%)
+  Valid words remaining: 352
+Guess 2: build
+  Eliminated 282 words (80.1%)
+  Valid words remaining: 70
+Guess 3: buyer
+  Eliminated 55 words (78.6%)
+  Valid words remaining: 15
+Guess 4: bunny
+  Eliminated 3 words (20.0%)
+  Valid words remaining: 12
+Guess 5: buffy
+  Eliminated 11 words (91.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 11 ---
+Target: vaera
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 6411 words (85.6%)
+  Valid words remaining: 1078
+Guess 3: pages
+  Eliminated 962 words (89.2%)
+  Valid words remaining: 116
+Guess 4: dance
+  Eliminated 111 words (95.7%)
+  Valid words remaining: 5
+Guess 5: faery
+  Eliminated 3 words (60.0%)
+  Valid words remaining: 2
+Guess 6: waerz
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 12 ---
+Target: unary
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39018 words (97.7%)
+  Valid words remaining: 915
+Guess 2: human
+  Eliminated 849 words (92.8%)
+  Valid words remaining: 66
+Guess 3: sauna
+  Eliminated 54 words (81.8%)
+  Valid words remaining: 12
+Guess 4: unfpa
+  Eliminated 7 words (58.3%)
+  Valid words remaining: 5
+Guess 5: unary
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 13 ---
+Target: adeos
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39658 words (99.3%)
+  Valid words remaining: 275
+Guess 2: allow
+  Eliminated 160 words (58.2%)
+  Valid words remaining: 115
+Guess 3: aaron
+  Eliminated 84 words (73.0%)
+  Valid words remaining: 31
+Guess 4: assoc
+  Eliminated 24 words (77.4%)
+  Valid words remaining: 7
+Guess 5: aesop
+  Eliminated 6 words (85.7%)
+  Valid words remaining: 1
+Guess 6: adeos
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 14 ---
+Target: shuts
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39460 words (98.8%)
+  Valid words remaining: 473
+Guess 2: study
+  Eliminated 464 words (98.1%)
+  Valid words remaining: 9
+Guess 3: sluts
+  Eliminated 7 words (77.8%)
+  Valid words remaining: 2
+Guess 4: shuts
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 15 ---
+Target: gflop
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3783 words (94.2%)
+  Valid words remaining: 231
+Guess 3: lycos
+  Eliminated 192 words (83.1%)
+  Valid words remaining: 39
+Guess 4: inlog
+  Eliminated 37 words (94.9%)
+  Valid words remaining: 2
+Guess 5: gflop
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 16 ---
+Target: epage
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7458 words (99.6%)
+  Valid words remaining: 31
+Guess 3: evans
+  Eliminated 21 words (67.7%)
+  Valid words remaining: 10
+Guess 4: ecard
+  Eliminated 8 words (80.0%)
+  Valid words remaining: 2
+Guess 5: epage
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 17 ---
+Target: argon
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39658 words (99.3%)
+  Valid words remaining: 275
+Guess 2: allow
+  Eliminated 160 words (58.2%)
+  Valid words remaining: 115
+Guess 3: aaron
+  Eliminated 105 words (91.3%)
+  Valid words remaining: 10
+Guess 4: arkon
+  Eliminated 1 words (10.0%)
+  Valid words remaining: 9
+Guess 5: arson
+  Eliminated 1 words (11.1%)
+  Valid words remaining: 8
+Guess 6: argon
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 18 ---
+Target: droue
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39895 words (99.9%)
+  Valid words remaining: 38
+Guess 2: group
+  Eliminated 32 words (84.2%)
+  Valid words remaining: 6
+Guess 3: vrouw
+  Eliminated 1 words (16.7%)
+  Valid words remaining: 5
+Guess 4: froud
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 5: droue
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 19 ---
+Target: iflux
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39540 words (99.0%)
+  Valid words remaining: 393
+Guess 2: issue
+  Eliminated 380 words (96.7%)
+  Valid words remaining: 13
+Guess 3: incur
+  Eliminated 8 words (61.5%)
+  Valid words remaining: 5
+Guess 4: iupui
+  Eliminated 2 words (40.0%)
+  Valid words remaining: 3
+Guess 5: illum
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Guess 6: iflux
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 20 ---
+Target: hacks
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 6396 words (85.4%)
+  Valid words remaining: 1093
+Guess 3: cards
+  Eliminated 1078 words (98.6%)
+  Valid words remaining: 15
+Guess 4: packs
+  Eliminated 10 words (66.7%)
+  Valid words remaining: 5
+Guess 5: hacks
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 21 ---
+Target: phonr
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38632 words (96.7%)
+  Valid words remaining: 1301
+Guess 2: phone
+  Eliminated 1296 words (99.6%)
+  Valid words remaining: 5
+Guess 3: phono
+  Eliminated 1 words (20.0%)
+  Valid words remaining: 4
+Guess 4: phony
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: phong
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: phons
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 22 ---
+Target: einfo
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3401 words (84.7%)
+  Valid words remaining: 613
+Guess 3: enjoy
+  Eliminated 611 words (99.7%)
+  Valid words remaining: 2
+Guess 4: empno
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 5: einfo
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 23 ---
+Target: lytle
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38193 words (95.6%)
+  Valid words remaining: 1740
+Guess 2: their
+  Eliminated 1516 words (87.1%)
+  Valid words remaining: 224
+Guess 3: style
+  Eliminated 223 words (99.6%)
+  Valid words remaining: 1
+Guess 4: lytle
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 24 ---
+Target: cideo
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3840 words (95.7%)
+  Valid words remaining: 174
+Guess 3: video
+  Eliminated 171 words (98.3%)
+  Valid words remaining: 3
+Guess 4: hideo
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 5: fideo
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: cideo
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 25 ---
+Target: pplus
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39540 words (99.0%)
+  Valid words remaining: 393
+Guess 2: issue
+  Eliminated 334 words (85.0%)
+  Valid words remaining: 59
+Guess 3: syrup
+  Eliminated 55 words (93.2%)
+  Valid words remaining: 4
+Guess 4: lupus
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: cplus
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: mplus
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 26 ---
+Target: odels
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 4004 words (99.8%)
+  Valid words remaining: 10
+Guess 3: oddly
+  Eliminated 6 words (60.0%)
+  Valid words remaining: 4
+Guess 4: odell
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Guess 5: odels
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 27 ---
+Target: vises
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 4306 words (72.4%)
+  Valid words remaining: 1643
+Guess 3: links
+  Eliminated 1561 words (95.0%)
+  Valid words remaining: 82
+Guess 4: gives
+  Eliminated 78 words (95.1%)
+  Valid words remaining: 4
+Guess 5: vides
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 6: vises
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 28 ---
+Target: setia
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38261 words (95.8%)
+  Valid words remaining: 1672
+Guess 2: state
+  Eliminated 1654 words (98.9%)
+  Valid words remaining: 18
+Guess 3: septa
+  Eliminated 16 words (88.9%)
+  Valid words remaining: 2
+Guess 4: setra
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 5: setia
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 29 ---
+Target: jener
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 4468 words (75.1%)
+  Valid words remaining: 1481
+Guess 3: level
+  Eliminated 1322 words (89.3%)
+  Valid words remaining: 159
+Guess 4: refer
+  Eliminated 125 words (78.6%)
+  Valid words remaining: 34
+Guess 5: meyer
+  Eliminated 12 words (35.3%)
+  Valid words remaining: 22
+Guess 6: gener
+  Eliminated 18 words (81.8%)
+  Valid words remaining: 4
+Lost in 6 guesses
+
+--- Game 30 ---
+Target: monto
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39010 words (97.7%)
+  Valid words remaining: 923
+Guess 2: other
+  Eliminated 619 words (67.1%)
+  Valid words remaining: 304
+Guess 3: posts
+  Eliminated 251 words (82.6%)
+  Valid words remaining: 53
+Guess 4: lotto
+  Eliminated 48 words (90.6%)
+  Valid words remaining: 5
+Guess 5: conto
+  Eliminated 3 words (60.0%)
+  Valid words remaining: 2
+Guess 6: konto
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 31 ---
+Target: hanai
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 6818 words (91.0%)
+  Valid words remaining: 671
+Guess 3: china
+  Eliminated 656 words (97.8%)
+  Valid words remaining: 15
+Guess 4: dinah
+  Eliminated 14 words (93.3%)
+  Valid words remaining: 1
+Guess 5: hanai
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 32 ---
+Target: ciali
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7458 words (99.6%)
+  Valid words remaining: 31
+Guess 3: liars
+  Eliminated 27 words (87.1%)
+  Valid words remaining: 4
+Guess 4: diald
+  Eliminated 2 words (50.0%)
+  Valid words remaining: 2
+Guess 5: fiala
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: ciali
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 33 ---
+Target: tutti
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39460 words (98.8%)
+  Valid words remaining: 473
+Guess 2: study
+  Eliminated 308 words (65.1%)
+  Valid words remaining: 165
+Guess 3: until
+  Eliminated 160 words (97.0%)
+  Valid words remaining: 5
+Guess 4: tutti
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 34 ---
+Target: colie
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3710 words (92.4%)
+  Valid words remaining: 304
+Guess 3: login
+  Eliminated 282 words (92.8%)
+  Valid words remaining: 22
+Guess 4: jolie
+  Eliminated 17 words (77.3%)
+  Valid words remaining: 5
+Guess 5: folie
+  Eliminated 1 words (20.0%)
+  Valid words remaining: 4
+Guess 6: polie
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Lost in 6 guesses
+
+--- Game 35 ---
+Target: macnn
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7116 words (95.0%)
+  Valid words remaining: 373
+Guess 3: march
+  Eliminated 360 words (96.5%)
+  Valid words remaining: 13
+Guess 4: macnn
+  Eliminated 12 words (92.3%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 36 ---
+Target: forth
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39010 words (97.7%)
+  Valid words remaining: 923
+Guess 2: other
+  Eliminated 910 words (98.6%)
+  Valid words remaining: 13
+Guess 3: north
+  Eliminated 9 words (69.2%)
+  Valid words remaining: 4
+Guess 4: worth
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: forth
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 37 ---
+Target: sokal
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38074 words (95.3%)
+  Valid words remaining: 1859
+Guess 2: local
+  Eliminated 1800 words (96.8%)
+  Valid words remaining: 59
+Guess 3: royal
+  Eliminated 17 words (28.8%)
+  Valid words remaining: 42
+Guess 4: modal
+  Eliminated 9 words (21.4%)
+  Valid words remaining: 33
+Guess 5: zonal
+  Eliminated 9 words (27.3%)
+  Valid words remaining: 24
+Guess 6: gopal
+  Eliminated 16 words (66.7%)
+  Valid words remaining: 8
+Lost in 6 guesses
+
+--- Game 38 ---
+Target: yorba
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39701 words (99.4%)
+  Valid words remaining: 232
+Guess 2: board
+  Eliminated 221 words (95.3%)
+  Valid words remaining: 11
+Guess 3: corba
+  Eliminated 7 words (63.6%)
+  Valid words remaining: 4
+Guess 4: yorba
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 39 ---
+Target: tonie
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39010 words (97.7%)
+  Valid words remaining: 923
+Guess 2: other
+  Eliminated 765 words (82.9%)
+  Valid words remaining: 158
+Guess 3: monte
+  Eliminated 154 words (97.5%)
+  Valid words remaining: 4
+Guess 4: tonne
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: tonge
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: tonle
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 40 ---
+Target: eatin
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38261 words (95.8%)
+  Valid words remaining: 1672
+Guess 2: state
+  Eliminated 1420 words (84.9%)
+  Valid words remaining: 252
+Guess 3: water
+  Eliminated 251 words (99.6%)
+  Valid words remaining: 1
+Guess 4: eatin
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 41 ---
+Target: sanco
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38074 words (95.3%)
+  Valid words remaining: 1859
+Guess 2: local
+  Eliminated 1726 words (92.8%)
+  Valid words remaining: 133
+Guess 3: canon
+  Eliminated 126 words (94.7%)
+  Valid words remaining: 7
+Guess 4: manco
+  Eliminated 1 words (14.3%)
+  Valid words remaining: 6
+Guess 5: sanco
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 42 ---
+Target: ogofa
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39656 words (99.3%)
+  Valid words remaining: 277
+Guess 2: flora
+  Eliminated 274 words (98.9%)
+  Valid words remaining: 3
+Guess 3: goofa
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Guess 4: ogofa
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 43 ---
+Target: volts
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39010 words (97.7%)
+  Valid words remaining: 923
+Guess 2: other
+  Eliminated 619 words (67.1%)
+  Valid words remaining: 304
+Guess 3: posts
+  Eliminated 285 words (93.8%)
+  Valid words remaining: 19
+Guess 4: fonts
+  Eliminated 7 words (36.8%)
+  Valid words remaining: 12
+Guess 5: volts
+  Eliminated 11 words (91.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 44 ---
+Target: copro
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3811 words (94.9%)
+  Valid words remaining: 203
+Guess 3: poker
+  Eliminated 200 words (98.5%)
+  Valid words remaining: 3
+Guess 4: romps
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Guess 5: copro
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 45 ---
+Target: korba
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39701 words (99.4%)
+  Valid words remaining: 232
+Guess 2: board
+  Eliminated 221 words (95.3%)
+  Valid words remaining: 11
+Guess 3: corba
+  Eliminated 7 words (63.6%)
+  Valid words remaining: 4
+Guess 4: yorba
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: zorba
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: norba
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 46 ---
+Target: atatu
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39906 words (99.9%)
+  Valid words remaining: 27
+Guess 2: acute
+  Eliminated 23 words (85.2%)
+  Valid words remaining: 4
+Guess 3: aunts
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Guess 4: atatu
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 47 ---
+Target: someo
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3230 words (80.5%)
+  Valid words remaining: 784
+Guess 3: money
+  Eliminated 769 words (98.1%)
+  Valid words remaining: 15
+Guess 4: homes
+  Eliminated 14 words (93.3%)
+  Valid words remaining: 1
+Guess 5: someo
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 48 ---
+Target: lappy
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7207 words (96.2%)
+  Valid words remaining: 282
+Guess 3: calls
+  Eliminated 220 words (78.0%)
+  Valid words remaining: 62
+Guess 4: larry
+  Eliminated 53 words (85.5%)
+  Valid words remaining: 9
+Guess 5: lanny
+  Eliminated 4 words (44.4%)
+  Valid words remaining: 5
+Guess 6: laffy
+  Eliminated 1 words (20.0%)
+  Valid words remaining: 4
+Lost in 6 guesses
+
+--- Game 49 ---
+Target: wordt
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39735 words (99.5%)
+  Valid words remaining: 198
+Guess 2: point
+  Eliminated 144 words (72.7%)
+  Valid words remaining: 54
+Guess 3: worst
+  Eliminated 53 words (98.1%)
+  Valid words remaining: 1
+Guess 4: wordt
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 50 ---
+Target: wwwat
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39509 words (98.9%)
+  Valid words remaining: 424
+Guess 2: great
+  Eliminated 354 words (83.5%)
+  Valid words remaining: 70
+Guess 3: ichat
+  Eliminated 37 words (52.9%)
+  Valid words remaining: 33
+Guess 4: splat
+  Eliminated 25 words (75.8%)
+  Valid words remaining: 8
+Guess 5: zakat
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Guess 6: wwwat
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 51 ---
+Target: bolte
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39873 words (99.8%)
+  Valid words remaining: 60
+Guess 2: bolts
+  Eliminated 58 words (96.7%)
+  Valid words remaining: 2
+Guess 3: boltz
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 4: bolte
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 52 ---
+Target: zales
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7190 words (96.0%)
+  Valid words remaining: 299
+Guess 3: sales
+  Eliminated 287 words (96.0%)
+  Valid words remaining: 12
+Guess 4: wales
+  Eliminated 1 words (8.3%)
+  Valid words remaining: 11
+Guess 5: dales
+  Eliminated 1 words (9.1%)
+  Valid words remaining: 10
+Guess 6: gales
+  Eliminated 1 words (10.0%)
+  Valid words remaining: 9
+Lost in 6 guesses
+
+--- Game 53 ---
+Target: sujoy
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39382 words (98.6%)
+  Valid words remaining: 551
+Guess 2: would
+  Eliminated 369 words (67.0%)
+  Valid words remaining: 182
+Guess 3: union
+  Eliminated 150 words (82.4%)
+  Valid words remaining: 32
+Guess 4: humor
+  Eliminated 26 words (81.2%)
+  Valid words remaining: 6
+Guess 5: yukos
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Guess 6: sujoy
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 54 ---
+Target: ngchd
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 5898 words (99.1%)
+  Valid words remaining: 51
+Guess 3: sched
+  Eliminated 49 words (96.1%)
+  Valid words remaining: 2
+Guess 4: ngchd
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 55 ---
+Target: ipopd
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38632 words (96.7%)
+  Valid words remaining: 1301
+Guess 2: phone
+  Eliminated 1220 words (93.8%)
+  Valid words remaining: 81
+Guess 3: drops
+  Eliminated 80 words (98.8%)
+  Valid words remaining: 1
+Guess 4: ipopd
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 56 ---
+Target: agere
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38568 words (96.6%)
+  Valid words remaining: 1365
+Guess 2: again
+  Eliminated 1354 words (99.2%)
+  Valid words remaining: 11
+Guess 3: agree
+  Eliminated 10 words (90.9%)
+  Valid words remaining: 1
+Guess 4: agere
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 57 ---
+Target: ckers
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 5616 words (94.4%)
+  Valid words remaining: 333
+Guess 3: cells
+  Eliminated 325 words (97.6%)
+  Valid words remaining: 8
+Guess 4: cress
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Guess 5: ckers
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 58 ---
+Target: ruary
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39018 words (97.7%)
+  Valid words remaining: 915
+Guess 2: human
+  Eliminated 783 words (85.6%)
+  Valid words remaining: 132
+Guess 3: guard
+  Eliminated 127 words (96.2%)
+  Valid words remaining: 5
+Guess 4: quark
+  Eliminated 3 words (60.0%)
+  Valid words remaining: 2
+Guess 5: ruary
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 59 ---
+Target: ainda
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38568 words (96.6%)
+  Valid words remaining: 1365
+Guess 2: again
+  Eliminated 1346 words (98.6%)
+  Valid words remaining: 19
+Guess 3: anima
+  Eliminated 18 words (94.7%)
+  Valid words remaining: 1
+Guess 4: ainda
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 60 ---
+Target: swith
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38193 words (95.6%)
+  Valid words remaining: 1740
+Guess 2: their
+  Eliminated 1692 words (97.2%)
+  Valid words remaining: 48
+Guess 3: smith
+  Eliminated 46 words (95.8%)
+  Valid words remaining: 2
+Guess 4: stith
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 5: swith
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 61 ---
+Target: exton
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39010 words (97.7%)
+  Valid words remaining: 923
+Guess 2: other
+  Eliminated 765 words (82.9%)
+  Valid words remaining: 158
+Guess 3: monte
+  Eliminated 142 words (89.9%)
+  Valid words remaining: 16
+Guess 4: elton
+  Eliminated 11 words (68.8%)
+  Valid words remaining: 5
+Guess 5: exton
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 62 ---
+Target: maden
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7186 words (96.0%)
+  Valid words remaining: 303
+Guess 3: games
+  Eliminated 255 words (84.2%)
+  Valid words remaining: 48
+Guess 4: maker
+  Eliminated 30 words (62.5%)
+  Valid words remaining: 18
+Guess 5: mayen
+  Eliminated 14 words (77.8%)
+  Valid words remaining: 4
+Guess 6: maven
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Lost in 6 guesses
+
+--- Game 63 ---
+Target: folla
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38074 words (95.3%)
+  Valid words remaining: 1859
+Guess 2: local
+  Eliminated 1848 words (99.4%)
+  Valid words remaining: 11
+Guess 3: jolla
+  Eliminated 1 words (9.1%)
+  Valid words remaining: 10
+Guess 4: rolla
+  Eliminated 1 words (10.0%)
+  Valid words remaining: 9
+Guess 5: holla
+  Eliminated 1 words (11.1%)
+  Valid words remaining: 8
+Guess 6: polla
+  Eliminated 1 words (12.5%)
+  Valid words remaining: 7
+Lost in 6 guesses
+
+--- Game 64 ---
+Target: gunge
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38252 words (95.8%)
+  Valid words remaining: 1681
+Guess 2: music
+  Eliminated 1424 words (84.7%)
+  Valid words remaining: 257
+Guess 3: fully
+  Eliminated 157 words (61.1%)
+  Valid words remaining: 100
+Guess 4: queen
+  Eliminated 77 words (77.0%)
+  Valid words remaining: 23
+Guess 5: nudge
+  Eliminated 20 words (87.0%)
+  Valid words remaining: 3
+Guess 6: runge
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 65 ---
+Target: chlor
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3979 words (99.1%)
+  Valid words remaining: 35
+Guess 3: oriel
+  Eliminated 31 words (88.6%)
+  Valid words remaining: 4
+Guess 4: xplor
+  Eliminated 2 words (50.0%)
+  Valid words remaining: 2
+Guess 5: chlor
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 66 ---
+Target: musta
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39742 words (99.5%)
+  Valid words remaining: 191
+Guess 2: ultra
+  Eliminated 159 words (83.2%)
+  Valid words remaining: 32
+Guess 3: punta
+  Eliminated 22 words (68.8%)
+  Valid words remaining: 10
+Guess 4: gusta
+  Eliminated 8 words (80.0%)
+  Valid words remaining: 2
+Guess 5: musta
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 67 ---
+Target: glogo
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38632 words (96.7%)
+  Valid words remaining: 1301
+Guess 2: phone
+  Eliminated 867 words (66.6%)
+  Valid words remaining: 434
+Guess 3: cross
+  Eliminated 267 words (61.5%)
+  Valid words remaining: 167
+Guess 4: flood
+  Eliminated 162 words (97.0%)
+  Valid words remaining: 5
+Guess 5: ology
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 6: glogo
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 68 ---
+Target: xcept
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39291 words (98.4%)
+  Valid words remaining: 642
+Guess 2: first
+  Eliminated 519 words (80.8%)
+  Valid words remaining: 123
+Guess 3: event
+  Eliminated 110 words (89.4%)
+  Valid words remaining: 13
+Guess 4: dwelt
+  Eliminated 9 words (69.2%)
+  Valid words remaining: 4
+Guess 5: mtext
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Guess 6: xcept
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 69 ---
+Target: ootla
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39564 words (99.1%)
+  Valid words remaining: 369
+Guess 2: today
+  Eliminated 307 words (83.2%)
+  Valid words remaining: 62
+Guess 3: costa
+  Eliminated 51 words (82.3%)
+  Valid words remaining: 11
+Guess 4: gotha
+  Eliminated 5 words (45.5%)
+  Valid words remaining: 6
+Guess 5: kotka
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Guess 6: ootla
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 70 ---
+Target: tetcu
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39460 words (98.8%)
+  Valid words remaining: 473
+Guess 2: study
+  Eliminated 308 words (65.1%)
+  Valid words remaining: 165
+Guess 3: until
+  Eliminated 138 words (83.6%)
+  Valid words remaining: 27
+Guess 4: hutch
+  Eliminated 26 words (96.3%)
+  Valid words remaining: 1
+Guess 5: tetcu
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 71 ---
+Target: heats
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38261 words (95.8%)
+  Valid words remaining: 1672
+Guess 2: state
+  Eliminated 1662 words (99.4%)
+  Valid words remaining: 10
+Guess 3: meats
+  Eliminated 2 words (20.0%)
+  Valid words remaining: 8
+Guess 4: heats
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 72 ---
+Target: harun
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39716 words (99.5%)
+  Valid words remaining: 217
+Guess 2: value
+  Eliminated 102 words (47.0%)
+  Valid words remaining: 115
+Guess 3: papua
+  Eliminated 25 words (21.7%)
+  Valid words remaining: 90
+Guess 4: cajun
+  Eliminated 83 words (92.2%)
+  Valid words remaining: 7
+Guess 5: harun
+  Eliminated 6 words (85.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 73 ---
+Target: lprng
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 4468 words (75.1%)
+  Valid words remaining: 1481
+Guess 3: level
+  Eliminated 1473 words (99.5%)
+  Valid words remaining: 8
+Guess 4: lprng
+  Eliminated 7 words (87.5%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 74 ---
+Target: lakie
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7469 words (99.7%)
+  Valid words remaining: 20
+Guess 3: lacie
+  Eliminated 16 words (80.0%)
+  Valid words remaining: 4
+Guess 4: lavie
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: ladie
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: lanie
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 75 ---
+Target: gooya
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39656 words (99.3%)
+  Valid words remaining: 277
+Guess 2: flora
+  Eliminated 190 words (68.6%)
+  Valid words remaining: 87
+Guess 3: skoda
+  Eliminated 35 words (40.2%)
+  Valid words remaining: 52
+Guess 4: inova
+  Eliminated 26 words (50.0%)
+  Valid words remaining: 26
+Guess 5: pooja
+  Eliminated 16 words (61.5%)
+  Valid words remaining: 10
+Guess 6: cooma
+  Eliminated 4 words (40.0%)
+  Valid words remaining: 6
+Lost in 6 guesses
+
+--- Game 76 ---
+Target: swift
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39291 words (98.4%)
+  Valid words remaining: 642
+Guess 2: first
+  Eliminated 637 words (99.2%)
+  Valid words remaining: 5
+Guess 3: shift
+  Eliminated 2 words (40.0%)
+  Valid words remaining: 3
+Guess 4: swift
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 77 ---
+Target: goths
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39010 words (97.7%)
+  Valid words remaining: 923
+Guess 2: other
+  Eliminated 877 words (95.0%)
+  Valid words remaining: 46
+Guess 3: month
+  Eliminated 34 words (73.9%)
+  Valid words remaining: 12
+Guess 4: hotly
+  Eliminated 10 words (83.3%)
+  Valid words remaining: 2
+Guess 5: goths
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 78 ---
+Target: tigan
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38261 words (95.8%)
+  Valid words remaining: 1672
+Guess 2: state
+  Eliminated 1168 words (69.9%)
+  Valid words remaining: 504
+Guess 3: party
+  Eliminated 438 words (86.9%)
+  Valid words remaining: 66
+Guess 4: vital
+  Eliminated 60 words (90.9%)
+  Valid words remaining: 6
+Guess 5: tidak
+  Eliminated 2 words (33.3%)
+  Valid words remaining: 4
+Guess 6: timah
+  Eliminated 2 words (50.0%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 79 ---
+Target: sgrep
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 4468 words (75.1%)
+  Valid words remaining: 1481
+Guess 3: level
+  Eliminated 1375 words (92.8%)
+  Valid words remaining: 106
+Guess 4: dryer
+  Eliminated 92 words (86.8%)
+  Valid words remaining: 14
+Guess 5: fgrep
+  Eliminated 10 words (71.4%)
+  Valid words remaining: 4
+Guess 6: ngrep
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Lost in 6 guesses
+
+--- Game 80 ---
+Target: moeny
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3230 words (80.5%)
+  Valid words remaining: 784
+Guess 3: money
+  Eliminated 783 words (99.9%)
+  Valid words remaining: 1
+Guess 4: moeny
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 81 ---
+Target: hikes
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 5793 words (97.4%)
+  Valid words remaining: 156
+Guess 3: hills
+  Eliminated 142 words (91.0%)
+  Valid words remaining: 14
+Guess 4: hires
+  Eliminated 9 words (64.3%)
+  Valid words remaining: 5
+Guess 5: hides
+  Eliminated 1 words (20.0%)
+  Valid words remaining: 4
+Guess 6: hikes
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 82 ---
+Target: abund
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39926 words (100.0%)
+  Valid words remaining: 7
+Guess 2: abuse
+  Eliminated 3 words (42.9%)
+  Valid words remaining: 4
+Guess 3: abuja
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 4: abuzz
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 5: abund
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 83 ---
+Target: crads
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7032 words (93.9%)
+  Valid words remaining: 457
+Guess 3: grand
+  Eliminated 445 words (97.4%)
+  Valid words remaining: 12
+Guess 4: draws
+  Eliminated 11 words (91.7%)
+  Valid words remaining: 1
+Guess 5: crads
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 84 ---
+Target: ndltd
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38193 words (95.6%)
+  Valid words remaining: 1740
+Guess 2: their
+  Eliminated 1658 words (95.3%)
+  Valid words remaining: 82
+Guess 3: cysts
+  Eliminated 72 words (87.8%)
+  Valid words remaining: 10
+Guess 4: xmltv
+  Eliminated 8 words (80.0%)
+  Valid words remaining: 2
+Guess 5: ngltf
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Guess 6: ndltd
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 85 ---
+Target: beals
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38906 words (97.4%)
+  Valid words remaining: 1027
+Guess 2: based
+  Eliminated 1013 words (98.6%)
+  Valid words remaining: 14
+Guess 3: bears
+  Eliminated 10 words (71.4%)
+  Valid words remaining: 4
+Guess 4: beans
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: beams
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Guess 6: beals
+  Eliminated 1 words (50.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 86 ---
+Target: apron
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39658 words (99.3%)
+  Valid words remaining: 275
+Guess 2: allow
+  Eliminated 160 words (58.2%)
+  Valid words remaining: 115
+Guess 3: aaron
+  Eliminated 108 words (93.9%)
+  Valid words remaining: 7
+Guess 4: akron
+  Eliminated 1 words (14.3%)
+  Valid words remaining: 6
+Guess 5: apron
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 87 ---
+Target: musee
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38252 words (95.8%)
+  Valid words remaining: 1681
+Guess 2: music
+  Eliminated 1666 words (99.1%)
+  Valid words remaining: 15
+Guess 3: muses
+  Eliminated 9 words (60.0%)
+  Valid words remaining: 6
+Guess 4: musee
+  Eliminated 5 words (83.3%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 88 ---
+Target: rerio
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3882 words (96.7%)
+  Valid words remaining: 132
+Guess 3: error
+  Eliminated 127 words (96.2%)
+  Valid words remaining: 5
+Guess 4: ferro
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 5: rerio
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 89 ---
+Target: shrew
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 5942 words (99.9%)
+  Valid words remaining: 7
+Guess 3: shrew
+  Eliminated 6 words (85.7%)
+  Valid words remaining: 1
+Won in 3 guesses
+
+--- Game 90 ---
+Target: frotz
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39653 words (99.3%)
+  Valid words remaining: 280
+Guess 2: store
+  Eliminated 243 words (86.8%)
+  Valid words remaining: 37
+Guess 3: trong
+  Eliminated 28 words (75.7%)
+  Valid words remaining: 9
+Guess 4: proto
+  Eliminated 4 words (44.4%)
+  Valid words remaining: 5
+Guess 5: froth
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Guess 6: frotz
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 91 ---
+Target: hohse
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 35919 words (89.9%)
+  Valid words remaining: 4014
+Guess 2: world
+  Eliminated 3230 words (80.5%)
+  Valid words remaining: 784
+Guess 3: money
+  Eliminated 704 words (89.8%)
+  Valid words remaining: 80
+Guess 4: voice
+  Eliminated 50 words (62.5%)
+  Valid words remaining: 30
+Guess 5: posse
+  Eliminated 26 words (86.7%)
+  Valid words remaining: 4
+Guess 6: hohse
+  Eliminated 3 words (75.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 92 ---
+Target: cheez
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 5912 words (99.4%)
+  Valid words remaining: 37
+Guess 3: chess
+  Eliminated 19 words (51.4%)
+  Valid words remaining: 18
+Guess 4: chevy
+  Eliminated 4 words (22.2%)
+  Valid words remaining: 14
+Guess 5: cheer
+  Eliminated 11 words (78.6%)
+  Valid words remaining: 3
+Guess 6: cheek
+  Eliminated 1 words (33.3%)
+  Valid words remaining: 2
+Lost in 6 guesses
+
+--- Game 93 ---
+Target: horan
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38074 words (95.3%)
+  Valid words remaining: 1859
+Guess 2: local
+  Eliminated 1647 words (88.6%)
+  Valid words remaining: 212
+Guess 3: woman
+  Eliminated 170 words (80.2%)
+  Valid words remaining: 42
+Guess 4: hogan
+  Eliminated 37 words (88.1%)
+  Valid words remaining: 5
+Guess 5: horan
+  Eliminated 4 words (80.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 94 ---
+Target: zoome
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38632 words (96.7%)
+  Valid words remaining: 1301
+Guess 2: phone
+  Eliminated 1151 words (88.5%)
+  Valid words remaining: 150
+Guess 3: close
+  Eliminated 89 words (59.3%)
+  Valid words remaining: 61
+Guess 4: moore
+  Eliminated 60 words (98.4%)
+  Valid words remaining: 1
+Guess 5: zoome
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 95 ---
+Target: peutz
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39460 words (98.8%)
+  Valid words remaining: 473
+Guess 2: study
+  Eliminated 426 words (90.1%)
+  Valid words remaining: 47
+Guess 3: truth
+  Eliminated 33 words (70.2%)
+  Valid words remaining: 14
+Guess 4: flute
+  Eliminated 13 words (92.9%)
+  Valid words remaining: 1
+Guess 5: peutz
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 96 ---
+Target: gracy
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 32444 words (81.2%)
+  Valid words remaining: 7489
+Guess 2: email
+  Eliminated 7032 words (93.9%)
+  Valid words remaining: 457
+Guess 3: grand
+  Eliminated 442 words (96.7%)
+  Valid words remaining: 15
+Guess 4: graph
+  Eliminated 3 words (20.0%)
+  Valid words remaining: 12
+Guess 5: grass
+  Eliminated 3 words (25.0%)
+  Valid words remaining: 9
+Guess 6: gravy
+  Eliminated 8 words (88.9%)
+  Valid words remaining: 1
+Lost in 6 guesses
+
+--- Game 97 ---
+Target: asama
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38568 words (96.6%)
+  Valid words remaining: 1365
+Guess 2: again
+  Eliminated 1263 words (92.5%)
+  Valid words remaining: 102
+Guess 3: award
+  Eliminated 61 words (59.8%)
+  Valid words remaining: 41
+Guess 4: avaya
+  Eliminated 29 words (70.7%)
+  Valid words remaining: 12
+Guess 5: akasa
+  Eliminated 11 words (91.7%)
+  Valid words remaining: 1
+Guess 6: asama
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 6 guesses
+
+--- Game 98 ---
+Target: enshs
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 33984 words (85.1%)
+  Valid words remaining: 5949
+Guess 2: which
+  Eliminated 5747 words (96.6%)
+  Valid words remaining: 202
+Guess 3: fresh
+  Eliminated 178 words (88.1%)
+  Valid words remaining: 24
+Guess 4: helps
+  Eliminated 23 words (95.8%)
+  Valid words remaining: 1
+Guess 5: enshs
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+--- Game 99 ---
+Target: uemoa
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 39838 words (99.8%)
+  Valid words remaining: 95
+Guess 2: paulo
+  Eliminated 78 words (82.1%)
+  Valid words remaining: 17
+Guess 3: ouray
+  Eliminated 16 words (94.1%)
+  Valid words remaining: 1
+Guess 4: uemoa
+  Eliminated 0 words (0.0%)
+  Valid words remaining: 1
+Won in 4 guesses
+
+--- Game 100 ---
+Target: panta
+Starting with 39933 valid words
+Guess 1: about
+  Eliminated 38261 words (95.8%)
+  Valid words remaining: 1672
+Guess 2: state
+  Eliminated 1521 words (91.0%)
+  Valid words remaining: 151
+Guess 3: party
+  Eliminated 147 words (97.4%)
+  Valid words remaining: 4
+Guess 4: paltz
+  Eliminated 1 words (25.0%)
+  Valid words remaining: 3
+Guess 5: panta
+  Eliminated 2 words (66.7%)
+  Valid words remaining: 1
+Won in 5 guesses
+
+==================================================
+Frequency Agent Results
+==================================================
+Games played: 100
+Win rate: 80.0%
+Average guesses (all games): 5.14
+Average guesses (won games): 6.42
+
+Guess distribution:
+  1:   0 
+  2:   0 
+  3:   1 
+  4:  23 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  5:  37 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  6:  19 🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  X:  20
+
+==================================================
+Word Elimination Statistics
+==================================================
+Average starting valid words: 39933.0
+
+Average elimination per guess:
+  Guess 1: 37222.8 words ( 93.2% of remaining) [100 games]
+  Guess 2: 2463.8 words ( 87.5% of remaining) [100 games]
+  Guess 3:  224.3 words ( 78.4% of remaining) [100 games]
+  Guess 4:   17.3 words ( 54.5% of remaining) [99 games]
+  Guess 5:    3.6 words ( 45.5% of remaining) [76 games]
+  Guess 6:    2.0 words ( 31.2% of remaining) [39 games]
+
+Cumulative average reduction from start:
+  After guess 1: 2710.2 words remaining ( 93.2% eliminated) [100 games]
+  After guess 2:  246.4 words remaining ( 99.4% eliminated) [100 games]
+  After guess 3:   22.0 words remaining ( 99.9% eliminated) [100 games]
+  After guess 4:    4.8 words remaining (100.0% eliminated) [99 games]
+  After guess 5:    1.2 words remaining (100.0% eliminated) [76 games]
+  After guess 6:    0.0 words remaining (100.0% eliminated) [39 games]

@@ -79,22 +79,65 @@ def evaluate_agent(
         "games_won": 0,
         "total_guesses": 0,
         "guess_distribution": {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, "failed": 0},
+        "elimination_stats": {
+            "total_words_start": 0,
+            "words_eliminated_per_guess": [],
+            "percentage_reduced_per_guess": [],
+        },
     }
 
     for game_num in range(num_games):
         state = env.reset()
         done = False
 
+        initial_valid_words = len(state["valid_words"])
+        results["elimination_stats"]["total_words_start"] += initial_valid_words
+
+        game_eliminations = []
+        game_reductions = []
+        prev_valid_count = initial_valid_words
+
         if verbose:
             print(f"\n--- Game {game_num + 1} ---")
             print(f"Target: {env.target_word}")
+            print(f"Starting with {initial_valid_words} valid words")
 
         while not done:
             guess = agent.choose_word(state)
             state, done, info = env.step(guess)
 
+            current_valid_count = len(state["valid_words"])
+            words_eliminated = prev_valid_count - current_valid_count
+            pct_reduced = (
+                (words_eliminated / prev_valid_count * 100)
+                if prev_valid_count > 0
+                else 0
+            )
+
+            game_eliminations.append(words_eliminated)
+            game_reductions.append(pct_reduced)
+
             if verbose:
-                print(f"Guess {info['attempts_used']}: {guess}")
+                print(f"Guess {info["attempts_used"]}: {guess}")
+                print(f"  Eliminated {words_eliminated} words ({pct_reduced:.1f}%)")
+                print(f"  Valid words remaining: {current_valid_count}")
+
+            prev_valid_count = current_valid_count
+
+        # record elimination stats per guess
+        for i, (eliminated, reduction) in enumerate(
+            zip(game_eliminations, game_reductions)
+        ):
+            while len(results["elimination_stats"]["words_eliminated_per_guess"]) <= i:
+                results["elimination_stats"]["words_eliminated_per_guess"].append([])
+                results["elimination_stats"]["percentage_reduced_per_guess"].append([])
+
+            results["elimination_stats"]["words_eliminated_per_guess"][i].append(
+                eliminated
+            )
+            results["elimination_stats"]["percentage_reduced_per_guess"][i].append(
+                reduction
+            )
 
         # Record results
         if info["solved"]:
@@ -118,6 +161,30 @@ def evaluate_agent(
             results["total_guesses"] / results["games_won"]
         )
 
+    # compute average elimination statistics
+    results["elimination_stats"]["avg_words_start"] = (
+        results["elimination_stats"]["total_words_start"] / num_games
+    )
+
+    results["elimination_stats"]["avg_eliminated_per_guess"] = []
+    results["elimination_stats"]["avg_percentage_reduced_per_guess"] = []
+
+    for i in range(len(results["elimination_stats"]["words_eliminated_per_guess"])):
+        eliminated_list = results["elimination_stats"]["words_eliminated_per_guess"][i]
+        reduction_list = results["elimination_stats"]["percentage_reduced_per_guess"][i]
+
+        avg_eliminated = (
+            sum(eliminated_list) / len(eliminated_list) if eliminated_list else 0
+        )
+        avg_reduction = (
+            sum(reduction_list) / len(reduction_list) if reduction_list else 0
+        )
+
+        results["elimination_stats"]["avg_eliminated_per_guess"].append(avg_eliminated)
+        results["elimination_stats"]["avg_percentage_reduced_per_guess"].append(
+            avg_reduction
+        )
+
     return results
 
 
@@ -139,6 +206,40 @@ def print_results(agent_name: str, results: Dict):
         print(f"  {i}: {count:3d} {bar}")
     print(f"  X: {results['guess_distribution']['failed']:3d}")
 
+    # print elimination statistics
+    if "elimination_stats" in results:
+        stats = results["elimination_stats"]
+        print(f"\n{'='*50}")
+        print(f"Word Elimination Statistics")
+        print(f"{'='*50}")
+        print(f"Average starting valid words: {stats['avg_words_start']:.1f}")
+        print(f"\nAverage elimination per guess:")
+        for i, (eliminated, pct) in enumerate(
+            zip(
+                stats["avg_eliminated_per_guess"],
+                stats["avg_percentage_reduced_per_guess"],
+            ),
+            start=1,
+        ):
+            num_games_at_guess = len(stats["words_eliminated_per_guess"][i - 1])
+            print(
+                f"  Guess {i}: {eliminated:6.1f} words ({pct:5.1f}% of remaining) [{num_games_at_guess} games]"
+            )
+
+        # compute cumulative reduction
+        print(f"\nCumulative average reduction from start:")
+        remaining = stats["avg_words_start"]
+        for i, eliminated in enumerate(stats["avg_eliminated_per_guess"], start=1):
+            remaining -= eliminated
+            remaining = max(0, remaining)  # don't go negative
+            cumulative_pct = (
+                (stats["avg_words_start"] - remaining) / stats["avg_words_start"] * 100
+            )
+            num_games_at_guess = len(stats["words_eliminated_per_guess"][i - 1])
+            print(
+                f"  After guess {i}: {remaining:6.1f} words remaining ({cumulative_pct:5.1f}% eliminated) [{num_games_at_guess} games]"
+            )
+
 
 if __name__ == "__main__":
     from wordle_env import WordleEnv
@@ -153,5 +254,5 @@ if __name__ == "__main__":
     ]
 
     for agent_name, agent in agents:
-        results = evaluate_agent(agent, env, num_games=10, verbose=False)
+        results = evaluate_agent(agent, env, num_games=100, verbose=True)
         print_results(agent_name, results)

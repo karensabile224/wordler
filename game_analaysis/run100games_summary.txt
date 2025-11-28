@@ -1,0 +1,75 @@
+==================================================
+Random Agent Results
+==================================================
+Games played: 100
+Win rate: 73.0%
+Average guesses (all games): 5.20
+Average guesses (won games): 7.12
+
+Guess distribution:
+  1:   0 
+  2:   1 
+  3:   2 🟫
+  4:  23 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  5:  24 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  6:  23 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  X:  27
+
+==================================================
+Word Elimination Statistics
+==================================================
+Average starting valid words: 39933.0
+
+Average elimination per guess:
+  Guess 1: 35100.5 words ( 87.9% of remaining) [100 games]
+  Guess 2: 4296.1 words ( 84.3% of remaining) [100 games]
+  Guess 3:  489.4 words ( 82.0% of remaining) [99 games]
+  Guess 4:   43.0 words ( 60.3% of remaining) [97 games]
+  Guess 5:    8.9 words ( 46.0% of remaining) [74 games]
+  Guess 6:    3.1 words ( 35.6% of remaining) [50 games]
+
+Cumulative average reduction from start:
+  After guess 1: 4832.5 words remaining ( 87.9% eliminated) [100 games]
+  After guess 2:  536.3 words remaining ( 98.7% eliminated) [100 games]
+  After guess 3:   46.9 words remaining ( 99.9% eliminated) [99 games]
+  After guess 4:    4.0 words remaining (100.0% eliminated) [97 games]
+  After guess 5:    0.0 words remaining (100.0% eliminated) [74 games]
+  After guess 6:    0.0 words remaining (100.0% eliminated) [50 games]
+
+==================================================
+Frequency Agent Results
+==================================================
+Games played: 100
+Win rate: 80.0%
+Average guesses (all games): 5.14
+Average guesses (won games): 6.42
+
+Guess distribution:
+  1:   0 
+  2:   0 
+  3:   1 
+  4:  23 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  5:  37 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  6:  19 🟫🟫🟫🟫🟫🟫🟫🟫🟫
+  X:  20
+
+==================================================
+Word Elimination Statistics
+==================================================
+Average starting valid words: 39933.0
+
+Average elimination per guess:
+  Guess 1: 37222.8 words ( 93.2% of remaining) [100 games]
+  Guess 2: 2463.8 words ( 87.5% of remaining) [100 games]
+  Guess 3:  224.3 words ( 78.4% of remaining) [100 games]
+  Guess 4:   17.3 words ( 54.5% of remaining) [99 games]
+  Guess 5:    3.6 words ( 45.5% of remaining) [76 games]
+  Guess 6:    2.0 words ( 31.2% of remaining) [39 games]
+
+Cumulative average reduction from start:
+  After guess 1: 2710.2 words remaining ( 93.2% eliminated) [100 games]
+  After guess 2:  246.4 words remaining ( 99.4% eliminated) [100 games]
+  After guess 3:   22.0 words remaining ( 99.9% eliminated) [100 games]
+  After guess 4:    4.8 words remaining (100.0% eliminated) [99 games]
+  After guess 5:    1.2 words remaining (100.0% eliminated) [76 games]
+  After guess 6:    0.0 words remaining (100.0% eliminated) [39 games]
