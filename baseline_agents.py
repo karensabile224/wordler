@@ -82,7 +82,7 @@ def evaluate_agent(
     }
 
     for game_num in range(num_games):
-        state = env.reset()
+        state, _ = env.reset()
         done = False
 
         if verbose:
