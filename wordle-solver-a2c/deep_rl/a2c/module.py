@@ -19,6 +19,8 @@ from a2c.agent import ActorCriticAgent
 from a2c.experience import ExperienceSourceDataset, Experience
 
 
+# Note: gymnasium is the updated version of gym. Use self.env.reset(), self.env.step(),
+# but use self.unwrapped_env to access underlying environment's custom attributes.
 class AdvantageActorCritic(LightningModule):
     """PyTorch Lightning implementation of `Advantage Actor Critic <https://arxiv.org/abs/1602.01783v2>`_.
     Paper Authors: Volodymyr Mnih, Adrià Puigdomènech Badia, et al.
@@ -65,7 +67,6 @@ class AdvantageActorCritic(LightningModule):
 
         # Model components
         self.env = gym.make(env)
-        self.unwrapped_env = self.env.unwrapped
 
         # Store unwrapped env for easier access to attributes
         self.unwrapped_env = self.env.unwrapped
@@ -77,7 +78,7 @@ class AdvantageActorCritic(LightningModule):
             hidden_size=self.hparams.hidden_size,
             word_list=self.unwrapped_env.words,
         )
-        self.net = torch.compile(self.net)  # Compile the network for faster training
+        # self.net = torch.compile(self.net)  # Compile the network for faster training
         self.agent = ActorCriticAgent(self.net)
 
         # Tracking metrics
@@ -210,10 +211,11 @@ class AdvantageActorCritic(LightningModule):
             returns.append(g)
 
         # reverse list and stop the gradients
+        returns = torch.tensor(returns[::-1])
         # returns = torch.tensor(returns[::-1], device=self.device)
-        returns = torch.tensor(
-            returns[::-1], dtype=torch.float32, device=self.device
-        )  # faster
+        # returns = torch.tensor(
+        #     returns[::-1], dtype=torch.float32, device=self.device
+        # )  # faster
 
         return returns
 
@@ -269,8 +271,8 @@ class AdvantageActorCritic(LightningModule):
         # Compute loss to backprop
         loss = self.loss(states, actions, returns)
 
-        # if self.global_step % 50 == 0:
-        if self.global_step % 200 == 0:  # less frequent logging
+        if self.global_step % 50 == 0:
+            # if self.global_step % 200 == 0:  # less frequent logging
             metrics = {
                 "train_loss": loss,
                 "total_games_played": self.done_episodes,
