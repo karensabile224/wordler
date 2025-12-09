@@ -3,6 +3,7 @@ from argparse import ArgumentParser
 from collections import OrderedDict
 from typing import Any, List, Tuple, Iterator
 import wandb
+import math
 
 import gymnasium as gym
 import numpy as np
@@ -44,6 +45,9 @@ class AdvantageActorCritic(LightningModule):
         prob_play_lost_word: float = 0.0,
         prob_cheat: float = 0.0,
         weight_decay: float = 0.0,
+        ### Info gain addition START ###
+        info_gain_weight: float = 0.0,
+        ### Info gain addition END ###
         **kwargs: Any,
     ) -> None:
         """
@@ -111,6 +115,55 @@ class AdvantageActorCritic(LightningModule):
         logprobs, values = self.net(torch.tensor([x], device=self.device))
         return logprobs, values
 
+    ### Info gain addition START ###
+    def calculate_information_gain(self, state_before, state_after):
+        """
+        Calculate information gain: reduction in uncertainty about target word
+
+        Args:
+            state_before: State before the guess
+            state_after: State after the guess
+
+        Returns:
+            Information gain in bits (log2 of word space reduction)
+        """
+        import math
+
+        # Count valid words based on state
+        def count_valid_words(state):
+            """
+            Estimate number of valid words from state
+            Uses heuristic based on remaining turns
+            """
+            # State structure: first element is remaining turns
+            remaining_turns = int(state[0]) if len(state) > 0 else 6
+
+            # If at start, all words valid
+            if remaining_turns >= 6:
+                return len(self.unwrapped_env.words)
+
+            # Heuristic: each guess eliminates ~80% of words on average
+            turns_used = 6 - remaining_turns
+            vocab_size = len(self.unwrapped_env.words)
+            estimated_remaining = vocab_size * (0.2**turns_used)
+
+            return max(1, int(estimated_remaining))
+
+        # Count before and after
+        n_before = count_valid_words(state_before)
+        n_after = count_valid_words(state_after)
+
+        # Avoid log(0) or log(1)
+        if n_before <= 1 or n_after == 0:
+            return 0.0
+
+        # Information gain in bits
+        info_gain = math.log2(n_before) - math.log2(n_after)
+
+        return max(0.0, info_gain)
+
+    ### Info gain addition END ###
+
     def train_batch(self) -> Iterator[Tuple[np.ndarray, int, Tensor]]:
         """Contains the logic for generating a new batch of data to be passed to the DataLoader.
         Returns:
@@ -136,9 +189,24 @@ class AdvantageActorCritic(LightningModule):
                 next_state, reward, terminated, truncated, aux = self.env.step(action)
                 done = terminated or truncated
 
+                ### Info gain addition START ###
+                # Apply information gain reward shaping
+                if self.hparams.info_gain_weight > 0:
+                    info_gain = self.calculate_information_gain(self.state, next_state)
+                    shaped_reward = reward + self.hparams.info_gain_weight * info_gain
+                else:
+                    shaped_reward = reward
+                ### Info gain addition END ###
+
                 batch_states.append(self.state)
                 batch_actions.append(action)
-                batch_rewards.append(reward)
+
+                ### Info gain addition START ###
+                # batch_rewards.append(reward)
+                # Store the shaped reward
+                batch_rewards.append(shaped_reward)
+                ### Info gain addition END ###
+
                 batch_masks.append(done)
                 batch_targets.append(aux["goal_id"])
 
@@ -441,5 +509,14 @@ class AdvantageActorCritic(LightningModule):
             default=100,
             help="how many episodes to include in avg reward",
         )
+
+        ### Info gain addition START ###
+        arg_parser.add_argument(
+            "--info_gain_weight",
+            type=float,
+            default=0.0,
+            help="weight for information gain reward shaping (0.0 = disabled).",
+        )
+        ### Info gain addition END ###
 
         return arg_parser
