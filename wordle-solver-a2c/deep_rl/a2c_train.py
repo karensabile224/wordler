@@ -71,7 +71,8 @@ def cli_main() -> None:
         filename="a2c-{epoch:02d}",
     )
 
-    seed_everything(123)
+    # Use CLI-provided seed (from model args) for reproducibility
+    seed_everything(args.seed)
 
     trainer = Trainer.from_argparse_args(
         args, deterministic=True, callbacks=[checkpoint_callback]

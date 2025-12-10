@@ -95,7 +95,7 @@ class AdvantageActorCritic(LightningModule):
         self._last_loss = []
         self._seq = []
 
-        self._recent_losing_words = collections.deque(maxlen=1000)
+        self._recent_losing_words = collections.deque(maxlen=self.hparams.replay_size)
         self._cheat_word = None
 
         self.state, _ = self.env.reset()
@@ -402,10 +402,10 @@ class AdvantageActorCritic(LightningModule):
             "--network_name", type=str, default="SumChars", help="Network to use"
         )
         arg_parser.add_argument(
-            "--n_hidden", type=int, default="1", help="Number of hidden layers"
+            "--n_hidden", type=int, default=1, help="Number of hidden layers"
         )
         arg_parser.add_argument(
-            "--hidden_size", type=int, default="256", help="Width of hidden layers"
+            "--hidden_size", type=int, default=256, help="Width of hidden layers"
         )
         arg_parser.add_argument(
             "--gamma", type=float, default=0.99, help="discount factor"
