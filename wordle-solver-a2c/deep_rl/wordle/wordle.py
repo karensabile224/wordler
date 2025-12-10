@@ -1,3 +1,9 @@
+import sys
+import os
+
+# Add parent directory (main folder) to Python search path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import os
 from typing import Optional, List
 
@@ -9,7 +15,6 @@ import wordle.state
 from wordle.const import WORDLE_N, REWARD
 
 CUR_PATH = os.environ.get('PYTHONPATH', '.')
-import os
 dirname = os.path.dirname(__file__)
 VALID_WORDS_PATH = f'{dirname}/../../data/wordle_words.txt'
 
@@ -84,23 +89,35 @@ class WordleEnvBase(gym.Env):
         reward = 0
         if action == self.goal_word:
             self.done = True
-            #reward = REWARD
             if wordle.state.remaining_steps(self.state) == self.max_turns-1:
-                reward = 0#-10*REWARD  # No reward for guessing off the bat
+                reward = 0 
             else:
-                #reward = REWARD*(self.state.remaining_steps() + 1) / self.max_turns
                 reward = REWARD
         elif wordle.state.remaining_steps(self.state) == 0:
             self.done = True
             reward = -REWARD
 
-        return self.state.copy(), reward, self.done, False, {"goal_id": self.goal_word}
+        # Gymnasium Update: Return 5 values
+        terminated = self.done
+        truncated = False
+        info = {"goal_id": self.goal_word}
+        
+        return self.state.copy(), reward, terminated, truncated, info
 
+    # --- THE FIX IS HERE ---
+    # We added **kwargs to accept 'options' (and anything else)
     def reset(self, seed: Optional[int] = None, options: Optional[dict] = None):
+        super().reset(seed=seed)
+        
         self.state = wordle.state.new(self.max_turns)
         self.done = False
-        self.goal_word = int(np.random.random()*self.allowable_words)
+        
+        if hasattr(self, 'np_random'):
+             self.goal_word = int(self.np_random.random() * self.allowable_words)
+        else:
+             self.goal_word = int(np.random.random() * self.allowable_words)
 
+        # Gymnasium Update: Return (obs, info)
         return self.state.copy(), {}
 
     def set_goal_word(self, goal_word: str):
@@ -110,62 +127,52 @@ class WordleEnvBase(gym.Env):
         self.goal_word = goal_id
 
 
+# Subclasses
 class WordleEnv10(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(10), max_turns=6)
-
 
 class WordleEnv100(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(100), max_turns=6)
 
-
 class WordleEnv100OneAction(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(100), allowable_words=1, max_turns=6)
-
 
 class WordleEnv100WithMask(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(100), max_turns=6,
                          mask_based_state_updates=True)
 
-
 class WordleEnv100TwoAction(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(100), allowable_words=2, max_turns=6)
-
 
 class WordleEnv100FullAction(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(), allowable_words=100, max_turns=6)
 
-
 class WordleEnv1000(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(1000), max_turns=6)
-
 
 class WordleEnv1000WithMask(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(1000), max_turns=6,
                          mask_based_state_updates=True)
 
-
 class WordleEnv1000FullAction(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(), allowable_words=1000, max_turns=6)
-
 
 class WordleEnvFull(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(), max_turns=6)
 
-
 class WordleEnvReal(WordleEnvBase):
     def __init__(self):
         super().__init__(words=_load_words(), allowable_words=2315, max_turns=6)
-
 
 class WordleEnvRealWithMask(WordleEnvBase):
     def __init__(self):

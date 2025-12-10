@@ -1,14 +1,8 @@
-from gymnasium.envs.registration import (
-    registry,
-    register,
-    make,
-    spec,
-    # load_env_plugins as _load_env_plugins,
-)
+from gymnasium.envs.registration import register
 
-
-# Classic
-# ----------------------------------------
+# We use standard registration. 
+# gymnasium will automatically handle the TimeLimit (max_episode_steps).
+# We will apply the GymCompatWrapper MANUALLY in our agent code.
 
 register(
     id="WordleEnv10-v0",

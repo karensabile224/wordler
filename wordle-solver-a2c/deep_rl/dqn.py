@@ -21,7 +21,7 @@ from dqn.experience import SequenceReplay, RLDataset, Experience
 
 import wordle.state
 
-import gymnasium as gym
+import gym
 
 AVAIL_GPUS = min(1, torch.cuda.device_count())
 
@@ -90,7 +90,7 @@ class DQNLightning(LightningModule):
             sample_size=self.hparams.episode_length)
 
         self.agent = Agent(self.net, self.env.action_space)
-        self.state, _ = self.env.reset()
+        self.state = self.env.reset()
         self.total_reward = 0
         self.episode_reward = 0
         self.total_games_played = 0
@@ -160,7 +160,7 @@ class DQNLightning(LightningModule):
             self.dataset.winners.append(cur_seq)
         else:
             self.dataset.losers.append(cur_seq)
-        self.state, _ = self.env.reset()
+        self.state = self.env.reset()
 
         return reward, winning_steps
 

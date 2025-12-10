@@ -18,22 +18,18 @@ class ActorCriticAgent:
         Returns:
             action defined by policy
         """
-        # modified to
-        if isinstance(states, np.ndarray):
-            states = torch.from_numpy(states).float().to(device)
-        else:
-            states = torch.tensor(states, dtype=torch.float32, device=device)
-        logprobs, _ = self.net(states.unsqueeze(0))
+        logprobs, _ = self.net(torch.tensor([states], device=device))
         probabilities = logprobs.exp().squeeze(dim=-1)
         prob_np = probabilities.data.cpu().numpy()
 
         # take the numpy values and randomly select action based on prob distribution
         # Note that this is much faster than numpy.random.choice
         cdf = np.cumsum(prob_np, axis=1)
-        cdf[:, -1] = 1.0  # Ensure cumsum adds to 1
+        cdf[:, -1] = 1.  # Ensure cumsum adds to 1
         select = np.random.random(cdf.shape[0])
         actions = [
-            np.searchsorted(cdf[row, :], select[row]) for row in range(cdf.shape[0])
+            np.searchsorted(cdf[row, :], select[row])
+            for row in range(cdf.shape[0])
         ]
 
         return actions

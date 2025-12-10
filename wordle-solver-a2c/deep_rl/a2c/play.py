@@ -33,7 +33,7 @@ def suggest(
     :param sequence: History of moves and outcomes until now
     :return:
     """
-    state, _ = env.reset()
+    state = env.reset()
     for word, mask in sequence:
         word = word.upper()
         assert word in env.words, f'{word} not in allowed words!'
@@ -50,7 +50,7 @@ def goal(
         env: WordleEnvBase,
         goal_word: str,
 ) -> Tuple[bool, List[Tuple[str, int]]]:
-    state, _ = env.reset()
+    state = env.reset()
     try:
         env.set_goal_word(goal_word.upper())
     except:
